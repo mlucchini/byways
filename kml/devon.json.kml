@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kml><Document><Placemark><LineString><coordinates>-4.10644,51.09409
+<?xml version="1.0" encoding="UTF-8"?><kml><Document><Placemark><Name>DN|Ashford|12</Name><Description>BO|DN:170|0.046|none|-4.10644|51.09409|-4.10720|51.09371|252589,134864|252535,134823</Description><Attribution>The data in this GeoJSON file has been obtained under licence from the council of Devon. The Council's Definitive Map is the authoritative source of their rights of way. The details of the public rights of way network contained in the Council's data are for information only, and are an interpretation of the Definitive Map, not the Definitive Map itself, and should not be relied on for determining the position or alignment of any public right of way. For legal purposes, the Council's data does not replace their Definitive Map. And changes may have been made to the Definitive Map that are not included in their data. The authority's data contains Ordnance Survey data © Crown copyright and database right 2022. Attempting to view this data with more detail than 1:10000 may produce an inaccurate rendering of the route of a public right of way. Data is also provided by www.rowmaps.com © www.rowmaps.com copyright and database right 2022. This file is released with the Open Government Licence. The preceding attribution statements must be contained in any sub-licences of the Information that you grant, together with a requirement that any further sub-licences do the same. The date of this data is 18th July 2022.</Attribution><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>S5-SFXzM3P_6uNSMjmgFfA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>NKl4ab8-cjo4P5lWT7eILg</PanoramaExit><LineString><coordinates>-4.10644,51.09409
 -4.10645,51.09406
 -4.10645,51.09403
 -4.10649,51.09402
@@ -9,7 +9,7 @@
 -4.10706,51.09384
 -4.10712,51.0938
 -4.10718,51.09373
--4.1072,51.09371</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.85826,50.31217
+-4.1072,51.09371</coordinates></LineString></Placemark><Placemark><Name>DN|Aveton Gifford|24</Name><Description>BO|DN:297|0.331|none|-3.85826|50.31217|-3.85175|50.31392|267784,47454|268252,47637</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>VMQBurtSs9zvjjct3T99AA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.85826,50.31217
 -3.85823,50.31219
 -3.85813,50.31227
 -3.85804,50.31233
@@ -67,7 +67,7 @@
 -3.85201,50.31389
 -3.85187,50.3139
 -3.85179,50.31391
--3.85175,50.31392</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.85175,50.31392
+-3.85175,50.31392</coordinates></LineString></Placemark><Placemark><Name>DN|Aveton Gifford|24</Name><Description>BO|DN:298|0.323|none|-3.85175|50.31392|-3.84561|50.31595|268252,47637|268695,47852</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>1YDvTGMJYSiENREQyol48g</PanoramaExit><LineString><coordinates>-3.85175,50.31392
 -3.85172,50.31392
 -3.85163,50.31393
 -3.85151,50.31395
@@ -120,7 +120,7 @@
 -3.84583,50.31586
 -3.84573,50.31591
 -3.84565,50.31593
--3.84561,50.31595</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.82811,50.33724
+-3.84561,50.31595</coordinates></LineString></Placemark><Placemark><Name>DN|Aveton Gifford|25</Name><Description>BO|DN:299|0.581|none|-3.82811|50.33724|-3.81697|50.33391|269999,50188|270783,49799</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>Le3domBaa4KFWXSRJaPRug</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>DG56IrKOcMZAgGn6kb21gA</PanoramaExit><LineString><coordinates>-3.82811,50.33724
 -3.82807,50.33723
 -3.82796,50.3372
 -3.82781,50.33715
@@ -206,7 +206,7 @@
 -3.81717,50.33399
 -3.81705,50.33396
 -3.817,50.33393
--3.81697,50.33391</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.84032,50.32324
+-3.81697,50.33391</coordinates></LineString></Placemark><Placemark><Name>DN|Aveton Gifford|26</Name><Description>BO|DN:300|0.269|none|-3.84032|50.32324|-3.84057|50.31947|269092,48653|269063,48234</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>ct585ftMY6dVmlF5H4aqXA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>DslprOhRYfYvoN6PYmksGw</PanoramaExit><LineString><coordinates>-3.84032,50.32324
 -3.84031,50.32322
 -3.84031,50.3232
 -3.84034,50.32307
@@ -246,7 +246,7 @@
 -3.84069,50.31985
 -3.84068,50.31972
 -3.84063,50.31963
--3.84057,50.31947</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.16646,50.75284
+-3.84057,50.31947</coordinates></LineString></Placemark><Placemark><Name>DN|Beaworthy|9</Name><Description>BO|DN:518|0.501|none|-4.16646|50.75284|-4.16764|50.75965|247272,97042|247211,97802</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>NJ6Ryiw8yflapUK2I3Ailg</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>dq8J_syUumsMH4GWpFtw7g</PanoramaExit><LineString><coordinates>-4.16646,50.75284
 -4.16648,50.75286
 -4.1665,50.75288
 -4.16653,50.7529
@@ -320,7 +320,7 @@
 -4.16743,50.75954
 -4.16753,50.7596
 -4.16761,50.75964
--4.16764,50.75965</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.72212,50.60294
+-4.16764,50.75965</coordinates></LineString></Placemark><Placemark><Name>DN|Bovey Tracey|42</Name><Description>BO|DN:943|0.223|none|-3.72212|50.60294|-3.71781|50.60122|278226,79551|278527,79352</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>osaEEMf-Xt4B93253RtBow</PanoramaExit><LineString><coordinates>-3.72212,50.60294
 -3.72208,50.60292
 -3.72196,50.60288
 -3.72184,50.60284
@@ -360,7 +360,7 @@
 -3.71812,50.60134
 -3.71798,50.60129
 -3.71785,50.60124
--3.71781,50.60122</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.66957,50.60531
+-3.71781,50.60122</coordinates></LineString></Placemark><Placemark><Name>DN|Bovey Tracey|43</Name><Description>BO|DN:944|0.441|none|-3.66957|50.60531|-3.67873|50.60681|281951,79729|281307,79911</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>qsRTaOjZq2oG6Z-8ZkT6pQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.66957,50.60531
 -3.66961,50.60533
 -3.66966,50.60534
 -3.66982,50.60538
@@ -453,18 +453,18 @@
 -3.67844,50.60675
 -3.67856,50.60678
 -3.67868,50.6068
--3.67873,50.60681</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.4231,50.82664
+-3.67873,50.60681</coordinates></LineString></Placemark><Placemark><Name>DN|Bradninch|13</Name><Description>BO|DN:979|0.029|none|-3.42310|50.82664|-3.42284|50.82697|299865,103976|299884,104012</Description><StreetViewAvailable>True</StreetViewAvailable><PanoramaEntry>HzEuyD9dsU8lIB0kPvezDg</PanoramaEntry><PanoramaMidpoint>FlCM2YJRExM-M7xHlMR03A</PanoramaMidpoint><PanoramaExit>rO5MqCCcVoyHlhWCVt-aaQ</PanoramaExit><LineString><coordinates>-3.4231,50.82664
 -3.42312,50.82665
 -3.42313,50.82667
 -3.42318,50.82675
 -3.42307,50.82681
 -3.42295,50.82687
--3.42284,50.82697</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.42284,50.82697
+-3.42284,50.82697</coordinates></LineString></Placemark><Placemark><Name>DN|Bradninch|13</Name><Description>BO|DN:980|0.021|none|-3.42284|50.82697|-3.42266|50.82723|299884,104012|299897,104041</Description><StreetViewAvailable>True</StreetViewAvailable><PanoramaEntry>rO5MqCCcVoyHlhWCVt-aaQ</PanoramaEntry><PanoramaMidpoint>yqWZDTp4paenavwEczjR_Q</PanoramaMidpoint><PanoramaExit>Doa6JpSzlA8hjxk0OYvcqg</PanoramaExit><LineString><coordinates>-3.42284,50.82697
 -3.42281,50.82704
 -3.42278,50.82712
 -3.42274,50.8272
 -3.4227,50.82722
--3.42266,50.82723</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.93396,51.11539
+-3.42266,50.82723</coordinates></LineString></Placemark><Placemark><Name>DN|Bratton Fleming|33</Name><Description>BO|DN:1130|0.723|none|-3.93396|51.11539|-3.94136|51.12160|264729,136901|264229,137605</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>SI4JGhNgMGWoooxM4UwILw</PanoramaExit><LineString><coordinates>-3.93396,51.11539
 -3.934,51.11539
 -3.93416,51.11537
 -3.93432,51.11536
@@ -598,7 +598,7 @@
 -3.94105,51.1214
 -3.9412,51.1215
 -3.94133,51.12159
--3.94136,51.1216</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.93299,51.11565
+-3.94136,51.1216</coordinates></LineString></Placemark><Placemark><Name>DN|Bratton Fleming|34</Name><Description>BO|DN:1131|0.566|none|-3.93299|51.11565|-3.92237|51.12019|264797,136928|265554,137413</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>4ajqzfZF6u0BjRvB5JVx8g</PanoramaExit><LineString><coordinates>-3.93299,51.11565
 -3.93295,51.11567
 -3.93276,51.11572
 -3.93257,51.11578
@@ -672,7 +672,7 @@
 -3.92268,51.12013
 -3.92255,51.12015
 -3.92241,51.12018
--3.92237,51.12019</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.93299,51.11565
+-3.92237,51.12019</coordinates></LineString></Placemark><Placemark><Name>DN|Bratton Fleming|34</Name><Description>BO|DN:1132|0.046|none|-3.93299|51.11565|-3.93396|51.11539|264797,136928|264729,136901</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.93299,51.11565
 -3.93303,51.11564
 -3.93316,51.1156
 -3.93329,51.11556
@@ -680,7 +680,7 @@
 -3.93369,51.11544
 -3.93381,51.11542
 -3.93392,51.1154
--3.93396,51.11539</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.2045,51.1252
+-3.93396,51.11539</coordinates></LineString></Placemark><Placemark><Name>DN|Braunton|79</Name><Description>BO|DN:1239|0.796|none|-4.20450|51.12520|-4.18688|51.12739|245827,138524|247067,138731</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>No5Mn5shP7jreG7RUTS15w</PanoramaExit><LineString><coordinates>-4.2045,51.1252
 -4.20443,51.12521
 -4.2043,51.12521
 -4.20417,51.12521
@@ -757,7 +757,7 @@
 -4.18727,51.1273
 -4.1871,51.12735
 -4.18697,51.12738
--4.18688,51.12739</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.11348,50.64838
+-4.18688,51.12739</coordinates></LineString></Placemark><Placemark><Name>DN|Bridestowe|6a</Name><Description>BO|DN:1323|0.352|none|-4.11348|50.64838|-4.10693|50.65107|250677,85320|251149,85606</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>Dr8jX_e8WLJ-rE6HJZgcmQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>wwGYhlKsRKr9Zbvhl73qFQ</PanoramaExit><LineString><coordinates>-4.11348,50.64838
 -4.11345,50.64841
 -4.11343,50.64846
 -4.1134,50.64849
@@ -835,7 +835,7 @@
 -4.10715,50.65097
 -4.10701,50.65104
 -4.10697,50.65105
--4.10693,50.65107</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.099,50.67075
+-4.10693,50.65107</coordinates></LineString></Placemark><Placemark><Name>DN|Bridestowe|10</Name><Description>BO|DN:1328|0.436|none|-4.09900|50.67075|-4.09368|50.67605|251772,87778|252164,88356</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>rrE461CvE9J-xx5iT0NyuA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-4.099,50.67075
 -4.09899,50.67078
 -4.09892,50.6709
 -4.09885,50.67102
@@ -890,7 +890,7 @@
 -4.09391,50.67589
 -4.0938,50.67598
 -4.09371,50.67603
--4.09368,50.67605</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.09368,50.67605
+-4.09368,50.67605</coordinates></LineString></Placemark><Placemark><Name>DN|Bridestowe|10</Name><Description>BO|DN:1329|0.216|none|-4.09368|50.67605|-4.09081|50.67844|252164,88356|252374,88616</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-4.09368,50.67605
 -4.09365,50.67607
 -4.0935,50.67615
 -4.09335,50.67623
@@ -922,7 +922,7 @@
 -4.09112,50.67832
 -4.09098,50.67837
 -4.09084,50.67843
--4.09081,50.67844</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.10564,50.65494
+-4.09081,50.67844</coordinates></LineString></Placemark><Placemark><Name>DN|Bridestowe|16</Name><Description>BO|DN:1335|0.646|none|-4.10564|50.65494|-4.10229|50.66310|251252,86033|251515,86934</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-4.10564,50.65494
 -4.1056,50.65494
 -4.10559,50.65494
 -4.10548,50.65495
@@ -1012,7 +1012,7 @@
 -4.10226,50.66294
 -4.10227,50.66301
 -4.10228,50.66308
--4.10229,50.6631</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.10229,50.6631
+-4.10229,50.6631</coordinates></LineString></Placemark><Placemark><Name>DN|Bridestowe|16</Name><Description>BO|DN:1336|0.553|none|-4.10229|50.66310|-4.09903|50.67069|251515,86934|251769,87771</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>rrE461CvE9J-xx5iT0NyuA</PanoramaExit><LineString><coordinates>-4.10229,50.6631
 -4.10228,50.66313
 -4.10224,50.66324
 -4.1022,50.66333
@@ -1085,7 +1085,7 @@
 -4.09914,50.67047
 -4.09909,50.67056
 -4.09904,50.67066
--4.09903,50.67069</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.10693,50.65107
+-4.09903,50.67069</coordinates></LineString></Placemark><Placemark><Name>DN|Bridestowe|16a</Name><Description>BO|DN:1337|0.278|none|-4.10693|50.65107|-4.10570|50.65495|251149,85606|251248,86034</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>wwGYhlKsRKr9Zbvhl73qFQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-4.10693,50.65107
 -4.1069,50.65109
 -4.10686,50.65112
 -4.10679,50.65121
@@ -1129,7 +1129,7 @@
 -4.10575,50.65491
 -4.10573,50.65493
 -4.10572,50.65493
--4.1057,50.65495</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.68485,50.68025
+-4.1057,50.65495</coordinates></LineString></Placemark><Placemark><Name>DN|Bridford|40</Name><Description>BO|DN:1375|0.543|none|-3.68485|50.68025|-3.69541|50.68181|281059,88086|280317,88277</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.68485,50.68025
 -3.68489,50.68026
 -3.68496,50.68028
 -3.68506,50.68033
@@ -1324,7 +1324,7 @@
 -3.69554,50.68165
 -3.69548,50.68173
 -3.69543,50.68179
--3.69541,50.68181</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.68485,50.68025
+-3.69541,50.68181</coordinates></LineString></Placemark><Placemark><Name>DN|Bridford|40</Name><Description>BO|DN:1376|0.045|none|-3.68485|50.68025|-3.68410|50.67981|281059,88086|281111,88036</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>jGSOvT8atllDLd65R3E8xA</PanoramaExit><LineString><coordinates>-3.68485,50.68025
 -3.68481,50.68023
 -3.68471,50.6802
 -3.68461,50.68016
@@ -1333,13 +1333,13 @@
 -3.68424,50.67992
 -3.68417,50.67987
 -3.68413,50.67983
--3.6841,50.67981</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.69541,50.68181
+-3.6841,50.67981</coordinates></LineString></Placemark><Placemark><Name>DN|Bridford|40</Name><Description>BO|DN:1377|0.022|none|-3.69541|50.68181|-3.69497|50.68197|280317,88277|280349,88294</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>gry_JblV0vOgzF09f0sfbA</PanoramaExit><LineString><coordinates>-3.69541,50.68181
 -3.69538,50.68182
 -3.69531,50.68185
 -3.69515,50.6819
 -3.695,50.68195
 -3.69499,50.68195
--3.69497,50.68197</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.68468,50.66954
+-3.69497,50.68197</coordinates></LineString></Placemark><Placemark><Name>DN|Bridford|41</Name><Description>BO|DN:1378|0.521|none|-3.68468|50.66954|-3.69584|50.66859|281044,86895|280253,86808</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>E9KZqbp5hQ_oEK3FiSyGRQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.68468,50.66954
 -3.68472,50.66953
 -3.68487,50.66951
 -3.68503,50.66949
@@ -1405,7 +1405,7 @@
 -3.69558,50.66852
 -3.69569,50.66855
 -3.6958,50.66858
--3.69584,50.66859</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.6733,50.67106
+-3.69584,50.66859</coordinates></LineString></Placemark><Placemark><Name>DN|Bridford|42</Name><Description>BO|DN:1379|0.459|none|-3.67330|50.67106|-3.68332|50.66966|281852,87046|281141,86906</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>lT72MRQmi3ky2dkr4gvMYg</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>BipNt_aUOtFh0GahKNf9MA</PanoramaExit><LineString><coordinates>-3.6733,50.67106
 -3.67334,50.67104
 -3.67338,50.67103
 -3.67342,50.67101
@@ -1484,7 +1484,7 @@
 -3.68312,50.66969
 -3.68327,50.66967
 -3.68329,50.66967
--3.68332,50.66966</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.26039,50.73002
+-3.68332,50.66966</coordinates></LineString></Placemark><Placemark><Name>DN|Broadwoodwidger|7</Name><Description>BO|DN:1492|0.381|none|-4.26039|50.73002|-4.25199|50.73122|240570,94703|241166,94819</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>0jz3h2Qh8SH-nnkgu0lQ8A</PanoramaExit><LineString><coordinates>-4.26039,50.73002
 -4.26035,50.73003
 -4.26028,50.73004
 -4.26011,50.73011
@@ -1538,7 +1538,7 @@
 -4.25232,50.73125
 -4.25219,50.73125
 -4.25203,50.73122
--4.25199,50.73122</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.8624,50.66385
+-4.25199,50.73122</coordinates></LineString></Placemark><Placemark><Name>DN|Chagford|24</Name><Description>BO|DN:1833|0.076|none|-3.86240|50.66385|-3.86127|50.66308|268470,86563|268548,86476</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>YsoSD9-aCqDkyrGB-FEV-Q</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>CXigffQs85NoGEAaMFk33A</PanoramaExit><LineString><coordinates>-3.8624,50.66385
 -3.86236,50.66384
 -3.86232,50.66384
 -3.8623,50.66383
@@ -1565,7 +1565,7 @@
 -3.8614,50.66317
 -3.86138,50.66316
 -3.8613,50.6631
--3.86127,50.66308</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.84701,50.65502
+-3.86127,50.66308</coordinates></LineString></Placemark><Placemark><Name>DN|Chagford|25</Name><Description>BO|DN:1834|0.078|none|-3.84701|50.65502|-3.84800|50.65407|269533,85554|269461,85450</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>GtCjvQfsl9ld6tSApK3atg</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>Blravamkhl6qR1NfMAoy2g</PanoramaExit><LineString><coordinates>-3.84701,50.65502
 -3.84703,50.655
 -3.8471,50.65493
 -3.84717,50.65487
@@ -1577,7 +1577,7 @@
 -3.84783,50.65424
 -3.84794,50.65413
 -3.84798,50.65409
--3.848,50.65407</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.87346,50.66948
+-3.848,50.65407</coordinates></LineString></Placemark><Placemark><Name>DN|Chagford|26</Name><Description>BO|DN:1835|0.175|none|-3.87346|50.66948|-3.87004|50.67075|267704,87209|267950,87344</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.87346,50.66948
 -3.87341,50.66949
 -3.87331,50.6695
 -3.8732,50.66952
@@ -1602,7 +1602,7 @@
 -3.87038,50.67059
 -3.87024,50.67065
 -3.87008,50.67073
--3.87004,50.67075</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.71221,50.2122
+-3.87004,50.67075</coordinates></LineString></Placemark><Placemark><Name>DN|Chivelstone|14</Name><Description>BO|DN:2068|0.114|none|-3.71221|50.21220|-3.71157|50.21060|277927,36090|277968,35911</Description><StreetViewAvailable>True</StreetViewAvailable><PanoramaEntry>d2erQWU-J3rmPRhIj9vxxA</PanoramaEntry><PanoramaMidpoint>XgxRNLHbvaeYihLt-RLlFA</PanoramaMidpoint><PanoramaExit>KAeW9EVMkapyDSxI4Llt1A</PanoramaExit><LineString><coordinates>-3.71221,50.2122
 -3.71219,50.21217
 -3.71213,50.21204
 -3.71209,50.21193
@@ -1618,7 +1618,7 @@
 -3.71167,50.21086
 -3.71163,50.21074
 -3.71158,50.21062
--3.71157,50.2106</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.71157,50.2106
+-3.71157,50.2106</coordinates></LineString></Placemark><Placemark><Name>DN|Chivelstone|14</Name><Description>BO|DN:2069|0.175|none|-3.71157|50.21060|-3.71532|50.20990|277968,35911|277699,35839</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>KAeW9EVMkapyDSxI4Llt1A</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>MUT2yRke0t_PlP82vBGT1Q</PanoramaExit><LineString><coordinates>-3.71157,50.2106
 -3.71162,50.2106
 -3.7118,50.21059
 -3.71198,50.21059
@@ -1642,7 +1642,7 @@
 -3.71501,50.20991
 -3.7151,50.2099
 -3.71528,50.2099
--3.71532,50.2099</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.71532,50.2099
+-3.71532,50.2099</coordinates></LineString></Placemark><Placemark><Name>DN|Chivelstone|14</Name><Description>BO|DN:2070|0.253|none|-3.71532|50.20990|-3.72077|50.20895|277699,35839|277308,35742</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>MUT2yRke0t_PlP82vBGT1Q</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>Vd-4OQ0KXpWeiiSwU0vDXA</PanoramaExit><LineString><coordinates>-3.71532,50.2099
 -3.71536,50.2099
 -3.71552,50.2099
 -3.71568,50.2099
@@ -1676,7 +1676,7 @@
 -3.72047,50.20902
 -3.72065,50.20897
 -3.72073,50.20896
--3.72077,50.20895</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.72077,50.20895
+-3.72077,50.20895</coordinates></LineString></Placemark><Placemark><Name>DN|Chivelstone|14</Name><Description>BO|DN:2071|0.257|none|-3.72077|50.20895|-3.71801|50.20571|277308,35742|277496,35377</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>Vd-4OQ0KXpWeiiSwU0vDXA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.72077,50.20895
 -3.72075,50.20893
 -3.72067,50.20884
 -3.7206,50.20875
@@ -1710,7 +1710,7 @@
 -3.71831,50.20591
 -3.71817,50.20582
 -3.71804,50.20573
--3.71801,50.20571</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.70991,50.21446
+-3.71801,50.20571</coordinates></LineString></Placemark><Placemark><Name>DN|Chivelstone|14</Name><Description>BO|DN:2072|0.222|none|-3.70991|50.21446|-3.71221|50.21220|278097,36337|277927,36090</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>eIODuxK5hd33mnXfCsXzMQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>d2erQWU-J3rmPRhIj9vxxA</PanoramaExit><LineString><coordinates>-3.70991,50.21446
 -3.70992,50.21444
 -3.70993,50.21431
 -3.70996,50.21418
@@ -1747,7 +1747,7 @@
 -3.71189,50.21232
 -3.71213,50.21221
 -3.71217,50.2122
--3.71221,50.2122</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.70932,50.24241
+-3.71221,50.2122</coordinates></LineString></Placemark><Placemark><Name>DN|Chivelstone|25</Name><Description>BO|DN:2085|0.196|none|-3.70932|50.24241|-3.71258|50.24071|278210,39444|277973,39260</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>eZ4aNvTe29KMrZ-tY9-J2A</PanoramaExit><LineString><coordinates>-3.70932,50.24241
 -3.70933,50.24239
 -3.70935,50.24234
 -3.70936,50.24228
@@ -1779,7 +1779,7 @@
 -3.71237,50.24075
 -3.71251,50.2407
 -3.71254,50.2407
--3.71258,50.24071</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.70572,50.24346
+-3.71258,50.24071</coordinates></LineString></Placemark><Placemark><Name>DN|Chivelstone|25</Name><Description>BO|DN:2086|0.18|none|-3.70572|50.24346|-3.70932|50.24241|278469,39555|278210,39444</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>0K__cMnN-_2feDQYXU1AkQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.70572,50.24346
 -3.70574,50.24344
 -3.70575,50.24343
 -3.70577,50.2434
@@ -1836,7 +1836,7 @@
 -3.70928,50.24246
 -3.7093,50.24245
 -3.70931,50.24244
--3.70932,50.24241</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.71334,50.23975
+-3.70932,50.24241</coordinates></LineString></Placemark><Placemark><Name>DN|Chivelstone|26</Name><Description>BO|DN:2087|0.205|none|-3.71334|50.23975|-3.71644|50.23825|277917,39154|277692,38993</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>8KP63p0V4IPhH5Tjfe29ig</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>z6m97MjQ4WEMwB466vgGtg</PanoramaExit><LineString><coordinates>-3.71334,50.23975
 -3.71339,50.23975
 -3.71344,50.23975
 -3.71361,50.23973
@@ -1870,7 +1870,7 @@
 -3.71638,50.23842
 -3.71641,50.2383
 -3.71643,50.23827
--3.71644,50.23825</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.66433,50.64362
+-3.71644,50.23825</coordinates></LineString></Placemark><Placemark><Name>DN|Christow|36</Name><Description>BO|DN:2129|0.187|none|-3.66433|50.64362|-3.66511|50.64093|282417,83981|282356,83683</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>XalrCTWVoyetNvKDH42UcA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.66433,50.64362
 -3.66434,50.6436
 -3.66438,50.64346
 -3.66441,50.64333
@@ -1893,7 +1893,7 @@
 -3.66504,50.64117
 -3.66507,50.64106
 -3.6651,50.64095
--3.66511,50.64093</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.66511,50.64093
+-3.66511,50.64093</coordinates></LineString></Placemark><Placemark><Name>DN|Christow|36</Name><Description>BO|DN:2130|0.108|none|-3.66511|50.64093|-3.66558|50.63934|282356,83683|282318,83507</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>1HSLBT3DoBykE9_2Smby5w</PanoramaExit><LineString><coordinates>-3.66511,50.64093
 -3.66512,50.6409
 -3.66515,50.64077
 -3.66519,50.64064
@@ -1908,7 +1908,7 @@
 -3.66552,50.63952
 -3.66556,50.6394
 -3.66557,50.63936
--3.66558,50.63934</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.74597,50.78688
+-3.66558,50.63934</coordinates></LineString></Placemark><Placemark><Name>DN|Colebrooke|21</Name><Description>BO|DN:2448|0.078|none|-3.74597|50.78688|-3.74455|50.78740|277021,100043|277123,100098</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>2ZIs5QGWQe8_StbiEcUdrA</PanoramaExit><LineString><coordinates>-3.74597,50.78688
 -3.74593,50.78691
 -3.74589,50.78695
 -3.74587,50.78699
@@ -1924,7 +1924,7 @@
 -3.74476,50.78739
 -3.74468,50.78739
 -3.7446,50.78739
--3.74455,50.7874</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.11088,50.7352
+-3.74455,50.7874</coordinates></LineString></Placemark><Placemark><Name>DN|Colyton|20</Name><Description>BO|DN:2483|0.358|none|-3.11088|50.73520|-3.10353|50.73408|321701,93431|322218,93299</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>EXaTEH_Uw-hdn4RxP1tTzQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.11088,50.7352
 -3.11084,50.73518
 -3.11069,50.73513
 -3.11065,50.73499
@@ -1981,7 +1981,7 @@
 -3.10383,50.7341
 -3.1037,50.73409
 -3.10357,50.73408
--3.10353,50.73408</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.05966,50.78369
+-3.10353,50.73408</coordinates></LineString></Placemark><Placemark><Name>DN|Dalwood|40</Name><Description>BO|DN:2874|0.29|none|-3.05966|50.78369|-3.06486|50.78141|325393,98770|325023,98522</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>YPUKUUgKFhFsnFDWdhoH4g</PanoramaExit><LineString><coordinates>-3.05966,50.78369
 -3.05971,50.78368
 -3.05987,50.78365
 -3.06005,50.78362
@@ -2024,7 +2024,7 @@
 -3.06449,50.78145
 -3.06463,50.78143
 -3.06482,50.78141
--3.06486,50.78141</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.8436,50.70815
+-3.06486,50.78141</coordinates></LineString></Placemark><Placemark><Name>DN|Drewsteignton|20</Name><Description>BO|DN:3199|0.276|none|-3.84360|50.70815|-3.84817|50.70554|269921,91456|269592,91174</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>w1QaNVT1YgYFu8dk7nrjDA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.8436,50.70815
 -3.84363,50.70813
 -3.84374,50.70805
 -3.84384,50.70796
@@ -2064,7 +2064,7 @@
 -3.84774,50.70578
 -3.84788,50.70571
 -3.84801,50.70563
--3.84817,50.70554</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.84817,50.70554
+-3.84817,50.70554</coordinates></LineString></Placemark><Placemark><Name>DN|Drewsteignton|20</Name><Description>BO|DN:3200|0.115|none|-3.84817|50.70554|-3.85017|50.70449|269592,91174|269447,91060</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>no1HpGDSHal9Ff11Z3pReQ</PanoramaExit><LineString><coordinates>-3.84817,50.70554
 -3.84823,50.70549
 -3.84833,50.70543
 -3.84843,50.70536
@@ -2081,7 +2081,7 @@
 -3.84985,50.70461
 -3.85,50.70455
 -3.85013,50.7045
--3.85017,50.70449</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.78554,50.70385
+-3.85017,50.70449</coordinates></LineString></Placemark><Placemark><Name>DN|Drewsteignton|21</Name><Description>BO|DN:3201|0.051|none|-3.78554|50.70385|-3.78515|50.70444|274009,90877|274038,90942</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.78554,50.70385
 -3.7855,50.70387
 -3.78535,50.70393
 -3.78525,50.70397
@@ -2093,7 +2093,7 @@
 -3.78511,50.70433
 -3.78513,50.7044
 -3.78513,50.70441
--3.78515,50.70444</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.78765,50.70379
+-3.78515,50.70444</coordinates></LineString></Placemark><Placemark><Name>DN|Drewsteignton|21</Name><Description>BO|DN:3202|0.093|none|-3.78765|50.70379|-3.78554|50.70385|273860,90874|274009,90877</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.78765,50.70379
 -3.78761,50.70379
 -3.78742,50.7038
 -3.78721,50.7038
@@ -2106,7 +2106,7 @@
 -3.78592,50.70382
 -3.7857,50.70384
 -3.78559,50.70385
--3.78554,50.70385</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.72776,50.70737
+-3.78554,50.70385</coordinates></LineString></Placemark><Placemark><Name>DN|Dunsford|17</Name><Description>BO|DN:3261|0.777|none|-3.72776|50.70737|-3.73089|50.69703|278098,91172|277850,90027</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>6dV_RJ0Obym3bReCXgEDEA</PanoramaExit><LineString><coordinates>-3.72776,50.70737
 -3.72777,50.70734
 -3.72781,50.70725
 -3.72785,50.70715
@@ -2237,7 +2237,7 @@
 -3.73098,50.69711
 -3.73093,50.69707
 -3.73091,50.69705
--3.73089,50.69703</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.88859,51.06583
+-3.73089,50.69703</coordinates></LineString></Placemark><Placemark><Name>DN|East and West Buckland|28</Name><Description>BO|DN:3289|0.041|none|-3.88859|51.06583|-3.88862|51.06530|267763,131307|267759,131248</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.88859,51.06583
 -3.88856,51.06571
 -3.88853,51.06561
 -3.8885,51.06553
@@ -2247,7 +2247,7 @@
 -3.88853,51.06534
 -3.8886,51.06534
 -3.88861,51.06532
--3.88862,51.0653</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.88862,51.0653
+-3.88862,51.0653</coordinates></LineString></Placemark><Placemark><Name>DN|East and West Buckland|28</Name><Description>BO|DN:3290|0.148|none|-3.88862|51.06530|-3.88656|51.06377|267759,131248|267899,131074</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>lSXJpKnA8y6fu6zSogjzWQ</PanoramaExit><LineString><coordinates>-3.88862,51.0653
 -3.8886,51.06528
 -3.88848,51.06518
 -3.88838,51.06512
@@ -2275,7 +2275,7 @@
 -3.88654,51.06395
 -3.88654,51.0639
 -3.88656,51.0638
--3.88656,51.06377</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.42563,50.61797
+-3.88656,51.06377</coordinates></LineString></Placemark><Placemark><Name>DN|Exmouth|16</Name><Description>BO|DN:3619|0.038|none|-3.42563|50.61797|-3.42649|50.61804|299239,80776|299179,80785</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.42563,50.61797
 -3.42571,50.61797
 -3.4259,50.61803
 -3.42601,50.61804
@@ -2284,7 +2284,7 @@
 -3.42619,50.61804
 -3.42626,50.61804
 -3.42631,50.61804
--3.42649,50.61804</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.11342,51.07371
+-3.42649,50.61804</coordinates></LineString></Placemark><Placemark><Name>DN|Fremington|85</Name><Description>BO|DN:3718|0.6|none|-4.11342|51.07371|-4.12051|51.07933|252035,132612|251557,133251</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-4.11342,51.07371
 -4.11345,51.07373
 -4.11357,51.07384
 -4.11369,51.07395
@@ -2430,10 +2430,10 @@
 -4.12078,51.0791
 -4.12066,51.0792
 -4.12053,51.07931
--4.12051,51.07933</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.12051,51.07933
+-4.12051,51.07933</coordinates></LineString></Placemark><Placemark><Name>DN|Fremington|85</Name><Description>BO|DN:3719|0.012|none|-4.12051|51.07933|-4.12067|51.07946|251557,133251|251546,133265</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint>svI-Uop1lbfu4gDDjrpTxw</PanoramaMidpoint><PanoramaExit>0-syh8_9tcQNRlQU7oU9HA</PanoramaExit><LineString><coordinates>-4.12051,51.07933
 -4.12053,51.07935
 -4.12064,51.07944
--4.12067,51.07946</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.72309,50.2709
+-4.12067,51.07946</coordinates></LineString></Placemark><Placemark><Name>DN|Frogmore and Sherford|8</Name><Description>BO|DN:3742|0.05|none|-3.72309|50.27090|-3.72292|50.27020|277301,42634|277312,42556</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>ulATvHY1cHSa0xvICJAdEw</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.72309,50.2709
 -3.72307,50.27087
 -3.72299,50.27075
 -3.72293,50.27067
@@ -2444,7 +2444,7 @@
 -3.72285,50.27038
 -3.72287,50.27032
 -3.72291,50.27023
--3.72292,50.2702</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.21839,51.13538
+-3.72292,50.2702</coordinates></LineString></Placemark><Placemark><Name>DN|Georgeham|45</Name><Description>BO|DN:3798|0.331|none|-4.21839|51.13538|-4.21947|51.13160|244889,139685|244801,139267</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>ztF10NFi3KVzfIcFKOkt7w</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>FY5KWPGCeaLG5txCLXpfEQ</PanoramaExit><LineString><coordinates>-4.21839,51.13538
 -4.21834,51.13532
 -4.21827,51.13526
 -4.21819,51.13519
@@ -2489,7 +2489,7 @@
 -4.21942,51.13168
 -4.21945,51.13165
 -4.21947,51.13161
--4.21947,51.1316</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.2045,51.1252
+-4.21947,51.1316</coordinates></LineString></Placemark><Placemark><Name>DN|Georgeham|46</Name><Description>BO|DN:3799|0.796|none|-4.20450|51.12520|-4.18688|51.12739|245827,138524|247067,138731</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>No5Mn5shP7jreG7RUTS15w</PanoramaExit><LineString><coordinates>-4.2045,51.1252
 -4.20443,51.12521
 -4.2043,51.12521
 -4.20417,51.12521
@@ -2566,7 +2566,7 @@
 -4.18727,51.1273
 -4.1871,51.12735
 -4.18697,51.12738
--4.18688,51.12739</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.88212,50.67998
+-4.18688,51.12739</coordinates></LineString></Placemark><Placemark><Name>DN|Gidleigh|5</Name><Description>BO|DN:3833|0.302|none|-3.88212|50.67998|-3.87812|50.68336|267122,88392|267414,88761</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>JDaZh6LoS_22g7q63589mA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.88212,50.67998
 -3.88209,50.68
 -3.88193,50.68009
 -3.88191,50.6801
@@ -2662,7 +2662,7 @@
 -3.87815,50.68334
 -3.87815,50.68335
 -3.87814,50.68335
--3.87812,50.68336</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.99653,51.09155
+-3.87812,50.68336</coordinates></LineString></Placemark><Placemark><Name>DN|Goodleigh|45</Name><Description>BO|DN:3852|1.219|none|-3.99653|51.09155|-3.97295|51.09673|260278,134367|261944,134898</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>MvtF1MxbOuMJL5q1u14KfQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.99653,51.09155
 -3.99649,51.09155
 -3.99633,51.09154
 -3.99616,51.09154
@@ -2838,7 +2838,7 @@
 -3.9729,51.09651
 -3.97291,51.09658
 -3.97295,51.09671
--3.97295,51.09673</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.0065,51.08821
+-3.97295,51.09673</coordinates></LineString></Placemark><Placemark><Name>DN|Goodleigh|46</Name><Description>BO|DN:3853|0.046|none|-4.00650|51.08821|-4.00543|51.08820|259569,134014|259644,134011</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>qC96Oo8NdXixm4Bi4i44AA</PanoramaExit><LineString><coordinates>-4.0065,51.08821
 -4.00645,51.08821
 -4.00629,51.08819
 -4.00615,51.08819
@@ -2846,7 +2846,7 @@
 -4.00582,51.08818
 -4.00566,51.08818
 -4.00548,51.0882
--4.00543,51.0882</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.0065,51.08821
+-4.00543,51.0882</coordinates></LineString></Placemark><Placemark><Name>DN|Goodleigh|46</Name><Description>BO|DN:3854|0.293|none|-4.00650|51.08821|-4.01293|51.08932|259569,134014|259122,134150</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>WApf9Br55Z6niu2JrTAiVQ</PanoramaExit><LineString><coordinates>-4.0065,51.08821
 -4.00654,51.08822
 -4.00666,51.08823
 -4.00679,51.08825
@@ -2892,7 +2892,7 @@
 -4.01278,51.08926
 -4.01287,51.08928
 -4.01292,51.08931
--4.01293,51.08932</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.00926,51.09545
+-4.01293,51.08932</coordinates></LineString></Placemark><Placemark><Name>DN|Goodleigh|47</Name><Description>BO|DN:3855|0.496|none|-4.00926|51.09545|-4.00003|51.09640|259398,134825|260047,134913</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>CgIyXn8Q_4DHBrnt3-Unng</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>mvIe3dXnjFS9aNuUwh9jGQ</PanoramaExit><LineString><coordinates>-4.00926,51.09545
 -4.00921,51.09545
 -4.00919,51.09545
 -4.00901,51.09541
@@ -2978,7 +2978,7 @@
 -4.0003,51.09645
 -4.00018,51.09643
 -4.00007,51.09641
--4.00003,51.0964</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.99858,51.09856
+-4.00003,51.0964</coordinates></LineString></Placemark><Placemark><Name>DN|Goodleigh|48</Name><Description>BO|DN:3856|0.185|none|-3.99858|51.09856|-4.00003|51.09640|260155,135150|260047,134913</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>mvIe3dXnjFS9aNuUwh9jGQ</PanoramaExit><LineString><coordinates>-3.99858,51.09856
 -3.99863,51.09855
 -3.99879,51.09854
 -3.9989,51.09853
@@ -3022,7 +3022,7 @@
 -4.00002,51.09645
 -4.00002,51.09643
 -4.00003,51.09643
--4.00003,51.0964</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.99858,51.09856
+-4.00003,51.0964</coordinates></LineString></Placemark><Placemark><Name>DN|Goodleigh|48</Name><Description>BO|DN:3857|0.166|none|-3.99858|51.09856|-3.99489|51.09878|260155,135150|260414,135167</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>NB3lEmsOaoJnOvK08BbNSg</PanoramaExit><LineString><coordinates>-3.99858,51.09856
 -3.99854,51.09856
 -3.99839,51.09856
 -3.99827,51.09857
@@ -3059,7 +3059,7 @@
 -3.99511,51.09876
 -3.99498,51.09878
 -3.99493,51.09878
--3.99489,51.09878</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.00487,51.10416
+-3.99489,51.09878</coordinates></LineString></Placemark><Placemark><Name>DN|Goodleigh|49</Name><Description>BO|DN:3858|0.518|none|-4.00487|51.10416|-3.99858|51.09856|259732,135785|260155,135150</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>qGyvCohnXAYWifOWG1BnVQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-4.00487,51.10416
 -4.00484,51.10413
 -4.0048,51.10409
 -4.00469,51.10407
@@ -3161,7 +3161,7 @@
 -3.99869,51.09879
 -3.99864,51.09868
 -3.9986,51.09858
--3.99858,51.09856</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.57684,50.52474
+-3.99858,51.09856</coordinates></LineString></Placemark><Placemark><Name>DN|Haccombe with Combe|11</Name><Description>BO|DN:3936|0.224|none|-3.57684|50.52474|-3.57660|50.52153|288322,70627|288331,70270</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>XAXyT727hEjTj_VsIq13bw</PanoramaExit><LineString><coordinates>-3.57684,50.52474
 -3.57683,50.52471
 -3.57683,50.5247
 -3.57683,50.52468
@@ -3209,7 +3209,7 @@
 -3.57663,50.52177
 -3.57662,50.52166
 -3.5766,50.52156
--3.5766,50.52153</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.57659,50.52144
+-3.5766,50.52153</coordinates></LineString></Placemark><Placemark><Name>DN|Haccombe with Combe|11</Name><Description>BO|DN:3937|0.169|none|-3.57659|50.52144|-3.57843|50.51943|288332,70260|288197,70039</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>XAXyT727hEjTj_VsIq13bw</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>iph9aBXxBC80T_GzNrLg9Q</PanoramaExit><LineString><coordinates>-3.57659,50.52144
 -3.57658,50.52132
 -3.57657,50.52118
 -3.57657,50.52114
@@ -3233,7 +3233,7 @@
 -3.5783,50.5196
 -3.57836,50.51953
 -3.57841,50.51946
--3.57843,50.51943</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.71334,50.42959
+-3.57843,50.51943</coordinates></LineString></Placemark><Placemark><Name>DN|Harberton|22</Name><Description>BO|DN:4019|0.257|none|-3.71334|50.42959|-3.71085|50.42643|278403,60262|278571,59906</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>eUHV8GrN1i7K4IHdFi_CsA</PanoramaExit><LineString><coordinates>-3.71334,50.42959
 -3.71334,50.42956
 -3.71335,50.42945
 -3.71336,50.42934
@@ -3270,7 +3270,7 @@
 -3.71102,50.42658
 -3.71094,50.4265
 -3.71088,50.42645
--3.71085,50.42643</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.06584,50.8244
+-3.71085,50.42643</coordinates></LineString></Placemark><Placemark><Name>DN|Hatherleigh|20</Name><Description>BO|DN:4169|0.443|none|-4.06584|50.82440|-4.05654|50.82225|254592,104796|255240,104539</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>McN9vJNCFAIXATAYGsEw-A</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>iZMXPaqqxn-A7Yh_dD-agg</PanoramaExit><LineString><coordinates>-4.06584,50.8244
 -4.0658,50.82438
 -4.06579,50.82438
 -4.06562,50.82435
@@ -3332,7 +3332,7 @@
 -4.05687,50.82242
 -4.05669,50.82235
 -4.05656,50.82229
--4.05654,50.82225</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.68707,50.62847
+-4.05654,50.82225</coordinates></LineString></Placemark><Placemark><Name>DN|Hennock|24</Name><Description>BO|DN:4320|0.445|none|-3.68707|50.62847|-3.67877|50.63132|280771,82332|281365,82636</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>cYoNCtb-yvJCcxJqtV4AnQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>Pjbw3-jwRXOcsUDDiDb6-g</PanoramaExit><LineString><coordinates>-3.68707,50.62847
 -3.68702,50.62848
 -3.68683,50.62849
 -3.68666,50.62848
@@ -3459,7 +3459,7 @@
 -3.67898,50.6312
 -3.67884,50.63126
 -3.6788,50.6313
--3.67877,50.63132</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.37706,50.83437
+-3.67877,50.63132</coordinates></LineString></Placemark><Placemark><Name>DN|Holsworthy Hamlets|15</Name><Description>BO|DN:4430|0.243|none|-4.37706|50.83437|-4.37469|50.83149|232710,106563|232866,106238</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>GAx1vLrOmQ-CZuc7UIRZgw</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>TTwHz1BUg3C3yihQj0cOug</PanoramaExit><LineString><coordinates>-4.37706,50.83437
 -4.37701,50.83438
 -4.37694,50.83438
 -4.37678,50.83441
@@ -3503,7 +3503,7 @@
 -4.37483,50.83165
 -4.37477,50.83159
 -4.37471,50.83151
--4.37469,50.83149</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.42571,50.96823
+-4.37469,50.83149</coordinates></LineString></Placemark><Placemark><Name>DN|Huntsham|4</Name><Description>BO|DN:4510|0.655|none|-3.42571|50.96823|-3.41664|50.96228|299985,119724|300609,119050</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>O2-VaoGXPHqirNl6r79bmA</PanoramaExit><LineString><coordinates>-3.42571,50.96823
 -3.42568,50.96821
 -3.42567,50.9682
 -3.42565,50.96812
@@ -3599,7 +3599,7 @@
 -3.41688,50.96222
 -3.41675,50.96227
 -3.41669,50.96228
--3.41664,50.96228</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.4382,50.96047
+-3.41664,50.96228</coordinates></LineString></Placemark><Placemark><Name>DN|Huntsham|5</Name><Description>BO|DN:4511|0.819|none|-3.43820|50.96047|-3.42571|50.96823|299091,118878|299985,119724</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>J_6NY7-NijYICteqYYgn4w</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.4382,50.96047
 -3.43816,50.96048
 -3.43808,50.96051
 -3.43803,50.96053
@@ -3713,7 +3713,7 @@
 -3.42593,50.96813
 -3.42583,50.96822
 -3.42576,50.96823
--3.42571,50.96823</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.04803,50.7796
+-3.42571,50.96823</coordinates></LineString></Placemark><Placemark><Name>DN|Kilmington|25</Name><Description>BO|DN:4968|0.16|none|-3.04803|50.77960|-3.04762|50.77732|326206,98304|326232,98050</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>88fOSXpGPTQm6RaW6J3K0A</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.04803,50.7796
 -3.04802,50.77957
 -3.04801,50.77945
 -3.04799,50.77934
@@ -3734,7 +3734,7 @@
 -3.04766,50.7775
 -3.04765,50.7774
 -3.04763,50.77735
--3.04762,50.77732</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.04761,50.77732
+-3.04762,50.77732</coordinates></LineString></Placemark><Placemark><Name>DN|Kilmington|25</Name><Description>BO|DN:4969|0.087|none|-3.04761|50.77732|-3.04615|50.77694|326232,98050|326335,98006</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>36lYEtkKHvSQC0Mi4cksYQ</PanoramaExit><LineString><coordinates>-3.04761,50.77732
 -3.04756,50.77732
 -3.04734,50.77733
 -3.04715,50.77734
@@ -3747,7 +3747,7 @@
 -3.04625,50.77707
 -3.04622,50.77694
 -3.04618,50.77694
--3.04615,50.77694</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.03263,50.77418
+-3.04615,50.77694</coordinates></LineString></Placemark><Placemark><Name>DN|Kilmington|27</Name><Description>BO|DN:4971|0.558|none|-3.03263|50.77418|-3.02291|50.77126|327284,97686|327964,97351</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>EvH4DY2kXyT-EDf38qKj-w</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.03263,50.77418
 -3.03259,50.77417
 -3.03247,50.77413
 -3.03236,50.7741
@@ -3829,7 +3829,7 @@
 -3.02314,50.7714
 -3.02299,50.77133
 -3.02294,50.77128
--3.02291,50.77126</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.05173,50.78243
+-3.02291,50.77126</coordinates></LineString></Placemark><Placemark><Name>DN|Kilmington|40</Name><Description>BO|DN:4972|0.363|none|-3.05173|50.78243|-3.05966|50.78369|325950,98622|325393,98770</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.05173,50.78243
 -3.05177,50.78244
 -3.05191,50.78246
 -3.05205,50.78249
@@ -3879,7 +3879,7 @@
 -3.05932,50.78373
 -3.05947,50.78371
 -3.05962,50.7837
--3.05966,50.78369</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.04261,50.78084
+-3.05966,50.78369</coordinates></LineString></Placemark><Placemark><Name>DN|Kilmington|40</Name><Description>BO|DN:4973|0.417|none|-3.04261|50.78084|-3.05173|50.78243|326590,98436|325950,98622</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>jOycAeAjqwhXHoFg8IVF7w</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.04261,50.78084
 -3.04266,50.78085
 -3.04283,50.78088
 -3.043,50.78091
@@ -3933,7 +3933,7 @@
 -3.05136,50.78237
 -3.05152,50.7824
 -3.05169,50.78242
--3.05173,50.78243</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.76433,50.28401
+-3.05173,50.78243</coordinates></LineString></Placemark><Placemark><Name>DN|Kingsbridge|16</Name><Description>BO|DN:5010|0.111|none|-3.76433|50.28401|-3.76185|50.28384|274397,44160|274573,44137</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.76433,50.28401
 -3.76402,50.28405
 -3.76394,50.28404
 -3.76383,50.28403
@@ -3950,7 +3950,7 @@
 -3.76209,50.28383
 -3.76199,50.28382
 -3.76194,50.28383
--3.76185,50.28384</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.76185,50.28384
+-3.76185,50.28384</coordinates></LineString></Placemark><Placemark><Name>DN|Kingsbridge|16</Name><Description>BO|DN:5011|0.18|none|-3.76185|50.28384|-3.75835|50.28503|274573,44137|274826,44264</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>6INJvuWkEIj9GO6h-Ryhdw</PanoramaExit><LineString><coordinates>-3.76185,50.28384
 -3.76175,50.28386
 -3.76162,50.28388
 -3.76149,50.28392
@@ -3976,7 +3976,7 @@
 -3.75893,50.28481
 -3.7588,50.28486
 -3.75858,50.28493
--3.75835,50.28503</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.76968,50.28175
+-3.75835,50.28503</coordinates></LineString></Placemark><Placemark><Name>DN|Kingsbridge|16</Name><Description>BO|DN:5012|0.289|none|-3.76968|50.28175|-3.76433|50.28401|274010,43918|274397,44160</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.76968,50.28175
 -3.76924,50.28186
 -3.76891,50.28195
 -3.76843,50.28212
@@ -3991,7 +3991,7 @@
 -3.76543,50.28374
 -3.76525,50.2838
 -3.765,50.28385
--3.76433,50.28401</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.76838,50.28576
+-3.76433,50.28401</coordinates></LineString></Placemark><Placemark><Name>DN|Kingsbridge|17</Name><Description>BO|DN:5013|0.228|none|-3.76838|50.28576|-3.76433|50.28401|274113,44362|274397,44160</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.76838,50.28576
 -3.76809,50.28562
 -3.76777,50.28545
 -3.76756,50.28531
@@ -4008,7 +4008,7 @@
 -3.76508,50.28421
 -3.76475,50.28418
 -3.76453,50.28412
--3.76433,50.28401</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.54083,50.37236
+-3.76433,50.28401</coordinates></LineString></Placemark><Placemark><Name>DN|Kingswear|16</Name><Description>BO|DN:5075|0.505|none|-3.54083|50.37236|-3.53397|50.36745|290523,53630|290999,53074</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>qess0GImF3-5qYB5xOv1WQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.54083,50.37236
 -3.54079,50.37236
 -3.54058,50.37236
 -3.54048,50.37237
@@ -4084,7 +4084,7 @@
 -3.53399,50.36756
 -3.53395,50.3675
 -3.53396,50.36748
--3.53397,50.36745</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.69208,50.9878
+-3.53397,50.36745</coordinates></LineString></Placemark><Placemark><Name>DN|Knowstone|12</Name><Description>BO|DN:5109|0.406|none|-3.69208|50.98780|-3.69507|50.98291|281332,122296|281109,121757</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>5A6hFCzSOZTeJG5q3BI8Cg</PanoramaExit><LineString><coordinates>-3.69208,50.9878
 -3.6921,50.98778
 -3.69214,50.98776
 -3.69225,50.98771
@@ -4151,17 +4151,17 @@
 -3.69506,50.98313
 -3.69506,50.98303
 -3.69507,50.98293
--3.69507,50.98291</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.69507,50.98291
+-3.69507,50.98291</coordinates></LineString></Placemark><Placemark><Name>DN|Knowstone|12</Name><Description>BO|DN:5110|0.02|none|-3.69507|50.98291|-3.69507|50.98261|281109,121757|281109,121723</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>5A6hFCzSOZTeJG5q3BI8Cg</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>1EjRoCAiNVRtwbKNNlqDuw</PanoramaExit><LineString><coordinates>-3.69507,50.98291
 -3.69507,50.98288
 -3.69507,50.98276
 -3.69507,50.98264
--3.69507,50.98261</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.67392,50.99486
+-3.69507,50.98261</coordinates></LineString></Placemark><Placemark><Name>DN|Knowstone|21</Name><Description>BO|DN:5113|0.028|none|-3.67392|50.99486|-3.67341|50.99462|282624,123052|282659,123024</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>UxwpTrdr7NoqB7cR00WYGg</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>9riJlgDSPx12zTu-rBfazw</PanoramaExit><LineString><coordinates>-3.67392,50.99486
 -3.67388,50.99485
 -3.67376,50.99478
 -3.67364,50.99472
 -3.67354,50.99468
 -3.67344,50.99463
--3.67341,50.99462</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.66371,50.45764
+-3.67341,50.99462</coordinates></LineString></Placemark><Placemark><Name>DN|Littlehempston|6</Name><Description>BO|DN:5232|0.355|none|-3.66371|50.45764|-3.66773|50.46176|281997,63301|281722,63765</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>GIxeWSXZh6Tgu67B9B1aaw</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>vYlXQ7b-K8e1oByDH5jHGw</PanoramaExit><LineString><coordinates>-3.66371,50.45764
 -3.66372,50.45767
 -3.66378,50.45774
 -3.66388,50.45783
@@ -4214,7 +4214,7 @@
 -3.6676,50.46159
 -3.66766,50.46165
 -3.66772,50.46173
--3.66773,50.46176</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.96921,51.12352
+-3.66773,50.46176</coordinates></LineString></Placemark><Placemark><Name>DN|Loxhore|31</Name><Description>BO|DN:5274|0.155|none|-3.96921|51.12352|-3.97225|51.12244|262286,137870|262070,137756</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>FiXUm99jfia_XHWIxDwQgQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.96921,51.12352
 -3.96922,51.1235
 -3.96925,51.12343
 -3.96938,51.1234
@@ -4240,7 +4240,7 @@
 -3.97203,51.12255
 -3.97215,51.12249
 -3.97222,51.12245
--3.97225,51.12244</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.97225,51.12244
+-3.97225,51.12244</coordinates></LineString></Placemark><Placemark><Name>DN|Loxhore|31</Name><Description>BO|DN:5275|0.309|none|-3.97225|51.12244|-3.97830|51.12095|262070,137756|261642,137601</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.97225,51.12244
 -3.97228,51.12242
 -3.97237,51.12235
 -3.97246,51.12229
@@ -4286,7 +4286,7 @@
 -3.97787,51.12103
 -3.97807,51.12099
 -3.97826,51.12096
--3.9783,51.12095</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.9783,51.12095
+-3.9783,51.12095</coordinates></LineString></Placemark><Placemark><Name>DN|Loxhore|31</Name><Description>BO|DN:5276|0.126|none|-3.97830|51.12095|-3.98109|51.12129|261642,137601|261448,137644</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>F40aqsdgXzMc9QCpAHLg0g</PanoramaExit><LineString><coordinates>-3.9783,51.12095
 -3.97834,51.12096
 -3.97848,51.12099
 -3.97863,51.12103
@@ -4306,7 +4306,7 @@
 -3.98083,51.12124
 -3.98101,51.12125
 -3.98105,51.12127
--3.98109,51.12129</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.97344,51.12442
+-3.98109,51.12129</coordinates></LineString></Placemark><Placemark><Name>DN|Loxhore|32</Name><Description>BO|DN:5277|0.148|none|-3.97344|51.12442|-3.97225|51.12244|261992,137978|262070,137756</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>hdJ3YOg6Sudp0qAjo-QL3w</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.97344,51.12442
 -3.97343,51.1244
 -3.9734,51.12433
 -3.97339,51.12423
@@ -4330,7 +4330,7 @@
 -3.97243,51.12259
 -3.97235,51.12252
 -3.97227,51.12246
--3.97225,51.12244</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.98601,51.12207
+-3.97225,51.12244</coordinates></LineString></Placemark><Placemark><Name>DN|Loxhore|33</Name><Description>BO|DN:5278|0.436|none|-3.98601|51.12207|-3.98047|51.12698|261106,137740|261508,138276</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>fn6s9Hj-eSVIYO_dXDjJAg</PanoramaExit><LineString><coordinates>-3.98601,51.12207
 -3.98602,51.1221
 -3.98606,51.12221
 -3.9861,51.12231
@@ -4396,7 +4396,7 @@
 -3.98071,51.12689
 -3.98063,51.12693
 -3.98051,51.12696
--3.98047,51.12698</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.98601,51.12207
+-3.98047,51.12698</coordinates></LineString></Placemark><Placemark><Name>DN|Loxhore|33</Name><Description>BO|DN:5279|0.088|none|-3.98601|51.12207|-3.98474|51.12130|261106,137740|261192,137652</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>iHRhBqmW9i4TafGTeYDXGg</PanoramaExit><LineString><coordinates>-3.98601,51.12207
 -3.98599,51.12205
 -3.98597,51.12203
 -3.98589,51.12196
@@ -4427,7 +4427,7 @@
 -3.98478,51.12133
 -3.98477,51.12132
 -3.98476,51.12132
--3.98474,51.1213</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.98474,51.1213
+-3.98474,51.1213</coordinates></LineString></Placemark><Placemark><Name>DN|Loxhore|33</Name><Description>BO|DN:5280|0.157|none|-3.98474|51.12130|-3.98152|51.12089|261192,137652|261416,137601</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>iHRhBqmW9i4TafGTeYDXGg</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>GTQK6f9ZjmGlzsoekNP1PQ</PanoramaExit><LineString><coordinates>-3.98474,51.1213
 -3.9847,51.12129
 -3.98469,51.12129
 -3.98452,51.12132
@@ -4462,7 +4462,7 @@
 -3.98165,51.12087
 -3.98158,51.12087
 -3.98155,51.12088
--3.98152,51.12089</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.73042,50.60842
+-3.98152,51.12089</coordinates></LineString></Placemark><Placemark><Name>DN|Lustleigh|36</Name><Description>BO|DN:5374|0.275|none|-3.73042|50.60842|-3.73617|50.60929|277653,80174|277249,80280</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.73042,50.60842
 -3.73046,50.60843
 -3.73065,50.60847
 -3.73079,50.60848
@@ -4506,7 +4506,7 @@
 -3.73615,50.6091
 -3.73616,50.60914
 -3.73617,50.60926
--3.73617,50.60929</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.73042,50.60842
+-3.73617,50.60929</coordinates></LineString></Placemark><Placemark><Name>DN|Lustleigh|36</Name><Description>BO|DN:5375|0.218|none|-3.73042|50.60842|-3.72637|50.60669|277653,80174|277935,79975</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.73042,50.60842
 -3.73027,50.60837
 -3.73026,50.60837
 -3.7302,50.60835
@@ -4598,7 +4598,7 @@
 -3.72645,50.60676
 -3.72644,50.60675
 -3.72641,50.60673
--3.72637,50.60669</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.72212,50.60294
+-3.72637,50.60669</coordinates></LineString></Placemark><Placemark><Name>DN|Lustleigh|36</Name><Description>BO|DN:5376|0.342|none|-3.72212|50.60294|-3.72639|50.60672|278226,79551|277934,79978</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.72212,50.60294
 -3.72216,50.60295
 -3.72225,50.60299
 -3.72235,50.60302
@@ -4657,7 +4657,7 @@
 -3.72635,50.60667
 -3.72637,50.60669
 -3.72637,50.6067
--3.72639,50.60672</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.77174,50.63962
+-3.72639,50.60672</coordinates></LineString></Placemark><Placemark><Name>DN|Lustleigh|37</Name><Description>BO|DN:5377|0.308|none|-3.77174|50.63962|-3.76508|50.63942|274813,83712|275283,83678</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.77174,50.63962
 -3.7717,50.63963
 -3.77165,50.63965
 -3.77159,50.63967
@@ -4760,7 +4760,7 @@
 -3.76541,50.63945
 -3.76527,50.63943
 -3.76512,50.63942
--3.76508,50.63942</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.71104,50.61169
+-3.76508,50.63942</coordinates></LineString></Placemark><Placemark><Name>DN|Lustleigh|38</Name><Description>BO|DN:5378|0.338|none|-3.71104|50.61169|-3.70467|50.61401|279033,80506|279490,80753</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>xy-p6UVE89UnUGLiJ7iBYQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>QDQQ9ZmvBdy5gAcFVNPLeg</PanoramaExit><LineString><coordinates>-3.71104,50.61169
 -3.71101,50.61171
 -3.71098,50.61171
 -3.7109,50.61174
@@ -4867,14 +4867,14 @@
 -3.70482,50.61392
 -3.70475,50.61398
 -3.70471,50.614
--3.70467,50.61401</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.74647,50.60937
+-3.70467,50.61401</coordinates></LineString></Placemark><Placemark><Name>DN|Manaton|48</Name><Description>BO|DN:5634|0.012|none|-3.74647|50.60937|-3.74645|50.60921|276520,80306|276521,80288</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.74647,50.60937
 -3.74646,50.60935
 -3.74646,50.60934
 -3.74646,50.60933
 -3.74649,50.60925
 -3.74648,50.60923
 -3.74648,50.60922
--3.74645,50.60921</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.74645,50.60921
+-3.74645,50.60921</coordinates></LineString></Placemark><Placemark><Name>DN|Manaton|48</Name><Description>BO|DN:5635|0.534|none|-3.74645|50.60921|-3.73617|50.60929|276521,80288|277249,80280</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.74645,50.60921
 -3.74642,50.60922
 -3.74638,50.60923
 -3.7463,50.60926
@@ -4977,7 +4977,7 @@
 -3.73618,50.60937
 -3.73617,50.60935
 -3.73617,50.60931
--3.73617,50.60929</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.74916,50.61121
+-3.73617,50.60929</coordinates></LineString></Placemark><Placemark><Name>DN|Manaton|48</Name><Description>BO|DN:5636|0.183|none|-3.74916|50.61121|-3.74647|50.60937|276335,80515|276520,80306</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.74916,50.61121
 -3.74913,50.6112
 -3.74912,50.6112
 -3.74908,50.61119
@@ -5036,7 +5036,7 @@
 -3.74651,50.60939
 -3.7465,50.60939
 -3.74648,50.60938
--3.74647,50.60937</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.74731,50.6003
+-3.74647,50.60937</coordinates></LineString></Placemark><Placemark><Name>DN|Manaton|49</Name><Description>BO|DN:5637|0.605|none|-3.74731|50.60030|-3.75913|50.59831|276437,79299|275595,79097</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>BdHt1Dw3xz_RnEDqjxJqiQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.74731,50.6003
 -3.74743,50.60029
 -3.74762,50.60026
 -3.7478,50.60022
@@ -5141,7 +5141,7 @@
 -3.75909,50.5983
 -3.7591,50.5983
 -3.75911,50.5983
--3.75913,50.59831</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.75983,50.59958
+-3.75913,50.59831</coordinates></LineString></Placemark><Placemark><Name>DN|Manaton|49</Name><Description>BO|DN:5638|0.097|none|-3.75983|50.59958|-3.75914|50.59831|275549,79240|275595,79097</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.75983,50.59958
 -3.75978,50.59957
 -3.75968,50.59956
 -3.75958,50.59948
@@ -5169,7 +5169,7 @@
 -3.75923,50.59843
 -3.75916,50.59833
 -3.75915,50.59832
--3.75914,50.59831</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.7904,50.62105
+-3.75914,50.59831</coordinates></LineString></Placemark><Placemark><Name>DN|Manaton|50</Name><Description>BO|DN:5639|0.11|none|-3.79040|50.62105|-3.79279|50.62137|273443,81679|273275,81719</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.7904,50.62105
 -3.79045,50.62105
 -3.79049,50.62106
 -3.79051,50.62106
@@ -5199,7 +5199,7 @@
 -3.79267,50.62137
 -3.79269,50.62137
 -3.79275,50.62137
--3.79279,50.62137</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.79279,50.62137
+-3.79279,50.62137</coordinates></LineString></Placemark><Placemark><Name>DN|Manaton|50</Name><Description>BO|DN:5640|0.295|none|-3.79279|50.62137|-3.79885|50.62213|273275,81719|272849,81813</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.79279,50.62137
 -3.79283,50.62137
 -3.79293,50.62136
 -3.79302,50.62136
@@ -5247,7 +5247,7 @@
 -3.79862,50.62199
 -3.79872,50.62205
 -3.79882,50.62211
--3.79885,50.62213</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.9031,51.22445
+-3.79885,50.62213</coordinates></LineString></Placemark><Placemark><Name>DN|Martinhoe|17</Name><Description>BO|DN:5683|0.201|none|-3.90310|51.22445|-3.89876|51.22377|267202,148971|267504,148888</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>0yx_5behRx0p1eG62E9YyQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>5zv144Mr1qwG-UYjZoEYTQ</PanoramaExit><LineString><coordinates>-3.9031,51.22445
 -3.90309,51.22447
 -3.90308,51.22448
 -3.90305,51.22448
@@ -5279,7 +5279,7 @@
 -3.8992,51.22381
 -3.899,51.2238
 -3.89881,51.22377
--3.89876,51.22377</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.89876,51.22377
+-3.89876,51.22377</coordinates></LineString></Placemark><Placemark><Name>DN|Martinhoe|17</Name><Description>BO|DN:5684|0.422|none|-3.89876|51.22377|-3.89611|51.22506|267504,148888|267692,149027</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>5zv144Mr1qwG-UYjZoEYTQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.89876,51.22377
 -3.89872,51.22376
 -3.89867,51.22376
 -3.89855,51.22373
@@ -5375,7 +5375,7 @@
 -3.89645,51.22519
 -3.89637,51.22515
 -3.89622,51.2251
--3.89611,51.22506</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.89702,51.22164
+-3.89611,51.22506</coordinates></LineString></Placemark><Placemark><Name>DN|Martinhoe|17</Name><Description>BO|DN:5685|0.153|none|-3.89702|51.22164|-3.90025|51.22260|267619,148648|267396,148761</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>SGJo5UzQvKz2tDwlN7dY_w</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>y8Jf7KlzJe28QJWRYahtvA</PanoramaExit><LineString><coordinates>-3.89702,51.22164
 -3.89706,51.22165
 -3.89724,51.22168
 -3.89742,51.22172
@@ -5399,7 +5399,7 @@
 -3.90003,51.22252
 -3.90012,51.22255
 -3.90022,51.22259
--3.90025,51.2226</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.90025,51.2226
+-3.90025,51.2226</coordinates></LineString></Placemark><Placemark><Name>DN|Martinhoe|17</Name><Description>BO|DN:5688|0.182|none|-3.90025|51.22260|-3.90310|51.22445|267396,148761|267202,148971</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>y8Jf7KlzJe28QJWRYahtvA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>0yx_5behRx0p1eG62E9YyQ</PanoramaExit><LineString><coordinates>-3.90025,51.2226
 -3.90029,51.22261
 -3.90041,51.22266
 -3.90052,51.2227
@@ -5430,7 +5430,7 @@
 -3.90307,51.22441
 -3.90309,51.22442
 -3.9031,51.22443
--3.9031,51.22445</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.094,51.15267
+-3.9031,51.22445</coordinates></LineString></Placemark><Placemark><Name>DN|Marwood|29</Name><Description>BO|DN:5730|0.177|none|-4.09400|51.15267|-4.09090|51.15429|253646,141352|253868,141526</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-4.094,51.15267
 -4.09396,51.15268
 -4.09385,51.15274
 -4.09376,51.1528
@@ -5457,7 +5457,7 @@
 -4.09115,51.15422
 -4.091,51.15426
 -4.09093,51.15428
--4.0909,51.15429</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.06869,51.12988
+-4.0909,51.15429</coordinates></LineString></Placemark><Placemark><Name>DN|Marwood|46</Name><Description>BO|DN:5743|0.144|none|-4.06869|51.12988|-4.07092|51.13116|255344,138768|255192,138915</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>EN7LrR-N6KFjG9H4vZ4XRQ</PanoramaExit><LineString><coordinates>-4.06869,51.12988
 -4.0687,51.12991
 -4.06877,51.13002
 -4.06883,51.13013
@@ -5481,7 +5481,7 @@
 -4.07068,51.13109
 -4.07078,51.13112
 -4.07088,51.13115
--4.07092,51.13116</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.06736,51.13076
+-4.07092,51.13116</coordinates></LineString></Placemark><Placemark><Name>DN|Marwood|46</Name><Description>BO|DN:5744|0.169|none|-4.06736|51.13076|-4.06846|51.12955|255440,138864|255359,138731</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-4.06736,51.13076
 -4.06739,51.13078
 -4.06749,51.13085
 -4.0676,51.13092
@@ -5515,14 +5515,14 @@
 -4.06842,51.12954
 -4.06843,51.12954
 -4.06846,51.12954
--4.06846,51.12955</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.06846,51.12955
+-4.06846,51.12955</coordinates></LineString></Placemark><Placemark><Name>DN|Marwood|46</Name><Description>BO|DN:5745|0.025|none|-4.06846|51.12955|-4.06869|51.12988|255359,138731|255344,138768</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-4.06846,51.12955
 -4.06848,51.12957
 -4.06851,51.12959
 -4.06856,51.12968
 -4.06862,51.12976
 -4.06867,51.12986
 -4.06868,51.12986
--4.06869,51.12988</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.20157,50.65778
+-4.06869,51.12988</coordinates></LineString></Placemark><Placemark><Name>DN|Marystow|12</Name><Description>BO|DN:5815|0.184|none|-4.20157|50.65778|-4.19958|50.65571|244481,86546|244615,86312</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>_0yLG4UTcgv2SBxG-PiTDQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>6ubcG774D49oEpPN_NwkYA</PanoramaExit><LineString><coordinates>-4.20157,50.65778
 -4.20152,50.65776
 -4.20139,50.65773
 -4.20123,50.6577
@@ -5553,7 +5553,7 @@
 -4.19957,50.65585
 -4.19959,50.65578
 -4.19959,50.65574
--4.19958,50.65571</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.48672,51.01881
+-4.19958,50.65571</coordinates></LineString></Placemark><Placemark><Name>DN|Morebath|17</Name><Description>BO|DN:6129|0.354|none|-3.48672|51.01881|-3.49083|51.01473|295814,125433|295517,124985</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>WPeclJtuoCmGJe-wKZi4tQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>0Ab0wdi9aojFo3owiwhVeQ</PanoramaExit><LineString><coordinates>-3.48672,51.01881
 -3.48674,51.01879
 -3.48676,51.01878
 -3.48682,51.01873
@@ -5645,7 +5645,7 @@
 -3.49086,51.01486
 -3.49085,51.01478
 -3.49084,51.01476
--3.49083,51.01473</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.78251,50.68602
+-3.49083,51.01473</coordinates></LineString></Placemark><Placemark><Name>DN|Moretonhampstead|36</Name><Description>BO|DN:6174|0.179|none|-3.78251|50.68602|-3.78080|50.68826|274175,88889|274302,89136</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.78251,50.68602
 -3.78254,50.68605
 -3.78256,50.68608
 -3.78257,50.6861
@@ -5678,7 +5678,7 @@
 -3.78096,50.68812
 -3.78089,50.68818
 -3.78082,50.68824
--3.7808,50.68826</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.78251,50.68602
+-3.7808,50.68826</coordinates></LineString></Placemark><Placemark><Name>DN|Moretonhampstead|36</Name><Description>BO|DN:6175|0.04|none|-3.78251|50.68602|-3.78227|50.68547|274175,88889|274191,88828</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.78251,50.68602
 -3.78249,50.686
 -3.78247,50.68597
 -3.7824,50.68589
@@ -5688,13 +5688,13 @@
 -3.7823,50.68563
 -3.78229,50.68555
 -3.78228,50.68549
--3.78227,50.68547</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.78227,50.68547
+-3.78227,50.68547</coordinates></LineString></Placemark><Placemark><Name>DN|Moretonhampstead|36</Name><Description>BO|DN:6176|0.03|none|-3.78227|50.68547|-3.78244|50.68505|274191,88828|274178,88781</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>edkyuXImL6Dvv7JKOHieRQ</PanoramaExit><LineString><coordinates>-3.78227,50.68547
 -3.78227,50.68544
 -3.78227,50.68536
 -3.7823,50.68527
 -3.78235,50.68519
 -3.78243,50.68508
--3.78244,50.68505</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.7808,50.68826
+-3.78244,50.68505</coordinates></LineString></Placemark><Placemark><Name>DN|Moretonhampstead|36</Name><Description>BO|DN:6177|0.656|none|-3.78080|50.68826|-3.78089|50.69513|274302,89136|274314,89900</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>VoZ4z-NkAyDgjEAQEViqBA</PanoramaExit><LineString><coordinates>-3.7808,50.68826
 -3.78077,50.68828
 -3.78072,50.68832
 -3.78059,50.68836
@@ -5817,14 +5817,14 @@
 -3.78074,50.69497
 -3.78084,50.69509
 -3.78087,50.69511
--3.78089,50.69513</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.78193,50.68513
+-3.78089,50.69513</coordinates></LineString></Placemark><Placemark><Name>DN|Moretonhampstead|36</Name><Description>BO|DN:6178|0.029|none|-3.78193|50.68513|-3.78227|50.68547|274214,88789|274191,88828</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>BbTjR5Eoh9VCpxEc4O-sXw</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.78193,50.68513
 -3.78196,50.68515
 -3.78205,50.68521
 -3.78212,50.68525
 -3.78217,50.68533
 -3.78225,50.68543
 -3.78225,50.68544
--3.78227,50.68547</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.78822,50.66206
+-3.78227,50.68547</coordinates></LineString></Placemark><Placemark><Name>DN|Moretonhampstead|37</Name><Description>BO|DN:6179|0.4|none|-3.78822|50.66206|-3.79400|50.66611|273708,86235|273310,86695</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>rdld8CKk9Ree8lQvYLhJCA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.78822,50.66206
 -3.78826,50.66206
 -3.78835,50.66208
 -3.78838,50.66209
@@ -5949,11 +5949,11 @@
 -3.79378,50.66594
 -3.79385,50.66603
 -3.79397,50.6661
--3.794,50.66611</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.57691,50.52479
+-3.794,50.66611</coordinates></LineString></Placemark><Placemark><Name>DN|Newton Abbot|11</Name><Description>BO|DN:6294|0.005|none|-3.57691|50.52479|-3.57684|50.52474|288317,70633|288322,70627</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.57691,50.52479
 -3.57689,50.52477
 -3.57687,50.52476
 -3.57685,50.52475
--3.57684,50.52474</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.78181,50.63837
+-3.57684,50.52474</coordinates></LineString></Placemark><Placemark><Name>DN|North Bovey|18</Name><Description>BO|DN:6497|0.14|none|-3.78181|50.63837|-3.77954|50.63970|274097,83590|274261,83734</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>AF8RTEZqcQ5G1HCjevEK1Q</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.78181,50.63837
 -3.7818,50.63839
 -3.78176,50.63846
 -3.78172,50.63852
@@ -5976,7 +5976,7 @@
 -3.77975,50.63962
 -3.77966,50.63965
 -3.77957,50.63969
--3.77954,50.6397</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.77954,50.6397
+-3.77954,50.6397</coordinates></LineString></Placemark><Placemark><Name>DN|North Bovey|18</Name><Description>BO|DN:6498|0.027|none|-3.77954|50.63970|-3.77941|50.64005|274261,83734|274272,83773</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.77954,50.6397
 -3.77951,50.63972
 -3.77947,50.63976
 -3.77945,50.6398
@@ -5985,10 +5985,10 @@
 -3.77952,50.63994
 -3.77951,50.63997
 -3.77943,50.64003
--3.77941,50.64005</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.77941,50.64005
+-3.77941,50.64005</coordinates></LineString></Placemark><Placemark><Name>DN|North Bovey|19</Name><Description>BO|DN:6499|0.011|none|-3.77941|50.64005|-3.77917|50.64004|274272,83773|274288,83771</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.77941,50.64005
 -3.77937,50.64005
 -3.77921,50.64004
--3.77917,50.64004</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.77917,50.64004
+-3.77917,50.64004</coordinates></LineString></Placemark><Placemark><Name>DN|North Bovey|19</Name><Description>BO|DN:6500|0.131|none|-3.77917|50.64004|-3.77617|50.64002|274288,83771|274501,83764</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.77917,50.64004
 -3.77913,50.64004
 -3.77892,50.64002
 -3.77873,50.64002
@@ -6009,7 +6009,7 @@
 -3.77655,50.64004
 -3.77644,50.64004
 -3.77623,50.64003
--3.77617,50.64002</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.77617,50.64002
+-3.77617,50.64002</coordinates></LineString></Placemark><Placemark><Name>DN|North Bovey|19</Name><Description>BO|DN:6501|0.2|none|-3.77617|50.64002|-3.77174|50.63962|274501,83764|274813,83712</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.77617,50.64002
 -3.77608,50.64002
 -3.77595,50.64
 -3.77582,50.63998
@@ -6056,7 +6056,7 @@
 -3.77181,50.63959
 -3.77178,50.6396
 -3.77176,50.63961
--3.77174,50.63962</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.7982,50.63864
+-3.77174,50.63962</coordinates></LineString></Placemark><Placemark><Name>DN|North Bovey|23</Name><Description>BO|DN:6505|0.527|none|-3.79820|50.63864|-3.80405|50.63224|272939,83648|272508,82946</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>vTv3kkY51IV4U9OjeuLRPQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.7982,50.63864
 -3.79822,50.63862
 -3.79822,50.6386
 -3.79824,50.63854
@@ -6241,7 +6241,7 @@
 -3.80402,50.63229
 -3.80403,50.63227
 -3.80404,50.63226
--3.80405,50.63224</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.80405,50.63224
+-3.80405,50.63224</coordinates></LineString></Placemark><Placemark><Name>DN|North Bovey|23</Name><Description>BO|DN:6506|0.136|none|-3.80405|50.63224|-3.80616|50.63089|272508,82946|272355,82800</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.80405,50.63224
 -3.80407,50.63222
 -3.80409,50.6322
 -3.80412,50.63215
@@ -6289,11 +6289,11 @@
 -3.80605,50.63091
 -3.80608,50.63091
 -3.80612,50.6309
--3.80616,50.63089</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.23684,51.04291
+-3.80616,50.63089</coordinates></LineString></Placemark><Placemark><Name>DN|Northam|29</Name><Description>BO|DN:6614|0.013|none|-4.23684|51.04291|-4.23676|51.04273|243286,129442|243291,129422</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-4.23684,51.04291
 -4.23683,51.04288
 -4.23678,51.04276
 -4.23677,51.04273
--4.23676,51.04273</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.50816,50.81174
+-4.23676,51.04273</coordinates></LineString></Placemark><Placemark><Name>DN|Rewe|3</Name><Description>BO|DN:7225|0.079|none|-3.50816|50.81174|-3.50675|50.81234|293840,102438|293941,102503</Description><StreetViewAvailable>True</StreetViewAvailable><PanoramaEntry>MJOe1Vn8TpXyOpweeTPkBA</PanoramaEntry><PanoramaMidpoint>HhhloKRRjKCBP1lHESMcHg</PanoramaMidpoint><PanoramaExit>g6au1IF-l5WClvWKtUxpgQ</PanoramaExit><LineString><coordinates>-3.50816,50.81174
 -3.50813,50.81177
 -3.50805,50.81183
 -3.50796,50.81189
@@ -6313,7 +6313,7 @@
 -3.50689,50.81226
 -3.50682,50.81232
 -3.50679,50.81233
--3.50675,50.81234</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.05966,50.78369
+-3.50675,50.81234</coordinates></LineString></Placemark><Placemark><Name>DN|Shute|40</Name><Description>BO|DN:7652|0.29|none|-3.05966|50.78369|-3.06486|50.78141|325393,98770|325023,98522</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>YPUKUUgKFhFsnFDWdhoH4g</PanoramaExit><LineString><coordinates>-3.05966,50.78369
 -3.05971,50.78368
 -3.05987,50.78365
 -3.06005,50.78362
@@ -6356,7 +6356,7 @@
 -3.06449,50.78145
 -3.06463,50.78143
 -3.06482,50.78141
--3.06486,50.78141</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.09081,50.67844
+-3.06486,50.78141</coordinates></LineString></Placemark><Placemark><Name>DN|Sourton|10</Name><Description>BO|DN:7970|0.287|none|-4.09081|50.67844|-4.08679|50.68155|252374,88616|252668,88954</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>rRpOJHzxqa2Wf81O-AXoMw</PanoramaExit><LineString><coordinates>-4.09081,50.67844
 -4.09077,50.67846
 -4.0906,50.67852
 -4.09044,50.67859
@@ -6393,7 +6393,7 @@
 -4.08693,50.68135
 -4.08683,50.68146
 -4.0868,50.68152
--4.08679,50.68155</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.70572,50.24346
+-4.08679,50.68155</coordinates></LineString></Placemark><Placemark><Name>DN|South Pool|25</Name><Description>BO|DN:8115|0.18|none|-3.70572|50.24346|-3.70932|50.24241|278469,39555|278210,39444</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>0K__cMnN-_2feDQYXU1AkQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.70572,50.24346
 -3.70574,50.24344
 -3.70575,50.24343
 -3.70577,50.2434
@@ -6450,7 +6450,7 @@
 -3.70928,50.24246
 -3.7093,50.24245
 -3.70931,50.24244
--3.70932,50.24241</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.76346,50.49837
+-3.70932,50.24241</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|30</Name><Description>BO|DN:8294|0.423|none|-3.76346|50.49837|-3.75695|50.49450|275025,67993|275476,67551</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>SYepQQKr4RdWrceJP0WpBQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.76346,50.49837
 -3.76342,50.49836
 -3.76328,50.49834
 -3.76315,50.49832
@@ -6510,7 +6510,7 @@
 -3.75729,50.49463
 -3.75716,50.49457
 -3.75698,50.49451
--3.75695,50.4945</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.75695,50.4945
+-3.75695,50.4945</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|30</Name><Description>BO|DN:8295|0.263|none|-3.75695|50.49450|-3.75278|50.49689|275476,67551|275778,67810</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>rOm7lQYptCtCelEpqgb75w</PanoramaExit><LineString><coordinates>-3.75695,50.4945
 -3.75691,50.49449
 -3.7568,50.49449
 -3.7566,50.49449
@@ -6549,7 +6549,7 @@
 -3.7531,50.49672
 -3.75295,50.49681
 -3.75281,50.49688
--3.75278,50.49689</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.75212,50.49726
+-3.75278,50.49689</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|31</Name><Description>BO|DN:8296|0.064|none|-3.75212|50.49726|-3.75074|50.49737|275826,67850|275924,67860</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>gY_IPPERRn-44hJC8paFgw</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.75212,50.49726
 -3.75207,50.49725
 -3.752,50.49724
 -3.75181,50.49721
@@ -6560,7 +6560,7 @@
 -3.75099,50.49729
 -3.75084,50.49733
 -3.75077,50.49736
--3.75074,50.49737</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.75074,50.49737
+-3.75074,50.49737</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|31</Name><Description>BO|DN:8297|0.277|none|-3.75074|50.49737|-3.74758|50.50045|275924,67860|276156,68197</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.75074,50.49737
 -3.75072,50.4974
 -3.75066,50.49747
 -3.75054,50.49754
@@ -6607,7 +6607,7 @@
 -3.74776,50.50031
 -3.74767,50.50041
 -3.74762,50.50043
--3.74758,50.50045</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.75074,50.49737
+-3.74758,50.50045</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|32</Name><Description>BO|DN:8298|0.336|none|-3.75074|50.49737|-3.74461|50.49489|275924,67860|276352,67574</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>riSslvy0d97i9gWWrPPopw</PanoramaExit><LineString><coordinates>-3.75074,50.49737
 -3.7507,50.49737
 -3.75059,50.49734
 -3.75048,50.49732
@@ -6663,7 +6663,7 @@
 -3.74496,50.49505
 -3.7448,50.49498
 -3.74465,50.49491
--3.74461,50.49489</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.74453,50.49476
+-3.74461,50.49489</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|33</Name><Description>BO|DN:8299|0.266|none|-3.74453|50.49476|-3.73925|50.49381|276358,67559|276730,67445</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>2NfwDvbFy3UtY7rWlICrTA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>F1qihc9-iBQAZX-k4gXjQA</PanoramaExit><LineString><coordinates>-3.74453,50.49476
 -3.74451,50.49474
 -3.74442,50.49467
 -3.74434,50.49462
@@ -6706,7 +6706,7 @@
 -3.73959,50.49375
 -3.73945,50.49378
 -3.7393,50.4938
--3.73925,50.49381</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.74377,50.49945
+-3.73925,50.49381</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|34</Name><Description>BO|DN:8300|1.066|none|-3.74377|50.49945|-3.72375|50.49414|276424,68080|277830,67456</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>J_2SDEd-g0aGlyocmf6ElA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>TX4XidczEi62Q_RTZ9OxvQ</PanoramaExit><LineString><coordinates>-3.74377,50.49945
 -3.74375,50.49948
 -3.74371,50.49951
 -3.74357,50.49961
@@ -6868,7 +6868,7 @@
 -3.72387,50.49431
 -3.7238,50.49422
 -3.72377,50.49417
--3.72375,50.49414</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.75692,50.49113
+-3.72375,50.49414</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|35</Name><Description>BO|DN:8301|0.641|none|-3.75692|50.49113|-3.75039|50.48460|275469,67177|275915,66440</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>9yDuFXOvQ34SVjUhbX-e0Q</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>F78dapJxWoxPTI7K8oWkbg</PanoramaExit><LineString><coordinates>-3.75692,50.49113
 -3.7569,50.49111
 -3.75685,50.49104
 -3.75679,50.49093
@@ -6966,7 +6966,7 @@
 -3.7506,50.48487
 -3.75051,50.48476
 -3.75041,50.48463
--3.75039,50.4846</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.76276,50.48958
+-3.75039,50.4846</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|36</Name><Description>BO|DN:8302|0.257|none|-3.76276|50.48958|-3.76696|50.48713|275051,67014|274747,66749</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>c2Uu3CM-Oagk67pZuO6Q9A</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.76276,50.48958
 -3.7628,50.48957
 -3.76285,50.48957
 -3.76302,50.4895
@@ -7009,11 +7009,11 @@
 -3.76683,50.48723
 -3.7669,50.48715
 -3.76693,50.48714
--3.76696,50.48713</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.74373,50.47337
+-3.76696,50.48713</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|37</Name><Description>BO|DN:8303|0.012|none|-3.74373|50.47337|-3.74369|50.47321|276359,65180|276361,65162</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>QT4k5cbDQh4EZ48rTbQKKQ</PanoramaExit><LineString><coordinates>-3.74373,50.47337
 -3.74373,50.47334
 -3.74371,50.47329
 -3.74369,50.47324
--3.74369,50.47321</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.74962,50.47959
+-3.74369,50.47321</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|37</Name><Description>BO|DN:8304|0.551|none|-3.74962|50.47959|-3.74373|50.47337|275957,65881|276359,65180</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>zFpZgpUDPtSwnI-5VjHVww</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.74962,50.47959
 -3.74959,50.47957
 -3.74948,50.47952
 -3.74937,50.47946
@@ -7091,7 +7091,7 @@
 -3.74385,50.47365
 -3.74379,50.47352
 -3.74374,50.4734
--3.74373,50.47337</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.751,50.47059
+-3.74373,50.47337</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|38</Name><Description>BO|DN:8305|0.454|none|-3.75100|50.47059|-3.74546|50.46521|275835,64883|276214,64275</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>NSvyTZltokhJdWzmV7q0GA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>k7C21lytIqPAZ_buuy9m6Q</PanoramaExit><LineString><coordinates>-3.751,50.47059
 -3.75098,50.47057
 -3.75087,50.47047
 -3.75076,50.47037
@@ -7161,7 +7161,7 @@
 -3.74552,50.46543
 -3.74546,50.46532
 -3.74546,50.46523
--3.74546,50.46521</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.72598,50.48089
+-3.74546,50.46521</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|39</Name><Description>BO|DN:8306|0.308|none|-3.72598|50.48089|-3.72923|50.47762|277637,65987|277398,65628</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>KpIt8LgVsSP-EU1pj4C1PA</PanoramaExit><LineString><coordinates>-3.72598,50.48089
 -3.72596,50.48087
 -3.72591,50.48079
 -3.72589,50.48074
@@ -7211,7 +7211,7 @@
 -3.72902,50.47784
 -3.7291,50.47775
 -3.72921,50.47764
--3.72923,50.47762</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.71981,50.46921
+-3.72923,50.47762</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|40</Name><Description>BO|DN:8307|0.358|none|-3.71981|50.46921|-3.72558|50.46642|278045,64678|277628,64377</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>1JoS7PbjGNsl5VtY0z3RDA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>cTV38fHMszoKtckRfC8eyA</PanoramaExit><LineString><coordinates>-3.71981,50.46921
 -3.71985,50.4692
 -3.72003,50.46916
 -3.72018,50.46909
@@ -7263,7 +7263,7 @@
 -3.72534,50.4666
 -3.72545,50.4665
 -3.72555,50.46644
--3.72558,50.46642</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.71036,50.47058
+-3.72558,50.46642</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|41</Name><Description>BO|DN:8308|0.11|none|-3.71036|50.47058|-3.70808|50.47119|278719,64815|278883,64879</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>5mBGpcl0elo1vDkQeykMYw</PanoramaExit><LineString><coordinates>-3.71036,50.47058
 -3.71032,50.47059
 -3.71019,50.47062
 -3.71002,50.47067
@@ -7280,7 +7280,7 @@
 -3.70832,50.47106
 -3.7082,50.4711
 -3.70811,50.47117
--3.70808,50.47119</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.71555,50.47012
+-3.70808,50.47119</coordinates></LineString></Placemark><Placemark><Name>DN|Staverton|41</Name><Description>BO|DN:8309|0.232|none|-3.71555|50.47012|-3.71036|50.47058|278350,64772|278719,64815</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>iLrlgS3vCiyyQ1OCH6F18A</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.71555,50.47012
 -3.71551,50.47012
 -3.71534,50.47013
 -3.71516,50.47014
@@ -7311,7 +7311,7 @@
 -3.71073,50.47053
 -3.71057,50.47055
 -3.7104,50.47058
--3.71036,50.47058</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.09688,50.8214
+-3.71036,50.47058</coordinates></LineString></Placemark><Placemark><Name>DN|Stockland|34</Name><Description>BO|DN:8352|0.255|none|-3.09688|50.82140|-3.09399|50.81821|322831,103002|323030,102644</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>IuXAbffq1TK7yC9dkSGaaw</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.09688,50.8214
 -3.09685,50.82138
 -3.09675,50.82127
 -3.09668,50.82119
@@ -7342,7 +7342,7 @@
 -3.09419,50.81845
 -3.0941,50.81834
 -3.09401,50.81824
--3.09399,50.81821</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.09399,50.81821
+-3.09399,50.81821</coordinates></LineString></Placemark><Placemark><Name>DN|Stockland|34</Name><Description>BO|DN:8353|0.326|none|-3.09399|50.81821|-3.08684|50.81935|323030,102644|323535,102763</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>ja6EnChgV-ELoK3XtnDdqw</PanoramaExit><LineString><coordinates>-3.09399,50.81821
 -3.09395,50.81822
 -3.09383,50.81823
 -3.09371,50.81824
@@ -7387,14 +7387,14 @@
 -3.08724,50.81938
 -3.08707,50.81937
 -3.08689,50.81936
--3.08684,50.81935</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.95273,51.10201
+-3.08684,50.81935</coordinates></LineString></Placemark><Placemark><Name>DN|Stoke Rivers|24</Name><Description>BO|DN:8406|0.034|none|-3.95273|51.10201|-3.95248|51.10153|263375,135447|263392,135394</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>acpljEjMNhHs8O8CIpFBpQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>qtlPWm2ADrJKezQ_vcGAEQ</PanoramaExit><LineString><coordinates>-3.95273,51.10201
 -3.95271,51.10199
 -3.95268,51.10195
 -3.95264,51.10186
 -3.9526,51.10177
 -3.95255,51.10166
 -3.9525,51.10156
--3.95248,51.10153</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.9576,51.10037
+-3.95248,51.10153</coordinates></LineString></Placemark><Placemark><Name>DN|Stoke Rivers|45</Name><Description>BO|DN:8408|0.775|none|-3.95760|51.10037|-3.97295|51.09673|263030,135274|261944,134898</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.9576,51.10037
 -3.95765,51.10036
 -3.95785,51.10033
 -3.95806,51.1003
@@ -7509,11 +7509,11 @@
 -3.97302,51.09693
 -3.97299,51.09686
 -3.97296,51.09676
--3.97295,51.09673</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.65242,50.26627
+-3.97295,51.09673</coordinates></LineString></Placemark><Placemark><Name>DN|Stokenham|26</Name><Description>BO|DN:8459|0.021|none|-3.65242|50.26627|-3.65288|50.26632|282326,42005|282293,42011</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>TswLCwjVjCWX09Xd02enLg</PanoramaExit><LineString><coordinates>-3.65242,50.26627
 -3.65246,50.26627
 -3.6526,50.26628
 -3.65273,50.2663
--3.65288,50.26632</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.69093,50.27327
+-3.65288,50.26632</coordinates></LineString></Placemark><Placemark><Name>DN|Stokenham|35</Name><Description>BO|DN:8475|0.551|none|-3.69093|50.27327|-3.68270|50.27884|279599,42845|280200,43451</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>KC8YwQ53sDGFf3zfg287tA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>olL-zcEsG9fsaJYFUb_LAA</PanoramaExit><LineString><coordinates>-3.69093,50.27327
 -3.69092,50.2733
 -3.69088,50.27338
 -3.69084,50.2734
@@ -7610,7 +7610,7 @@
 -3.68272,50.2787
 -3.68272,50.27879
 -3.68271,50.27881
--3.6827,50.27884</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.67344,50.27157
+-3.6827,50.27884</coordinates></LineString></Placemark><Placemark><Name>DN|Stokenham|36</Name><Description>BO|DN:8476|0.345|none|-3.67344|50.27157|-3.67661|50.26712|280841,42628|280604,42138</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>nY5PdrfGTcDNEX7ym-qStQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>yVbTRX7uES-LfQnHxunxkg</PanoramaExit><LineString><coordinates>-3.67344,50.27157
 -3.67346,50.27155
 -3.6735,50.2715
 -3.67354,50.27142
@@ -7678,7 +7678,7 @@
 -3.6765,50.26726
 -3.67657,50.2672
 -3.6766,50.26714
--3.67661,50.26712</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.68985,50.26977
+-3.67661,50.26712</coordinates></LineString></Placemark><Placemark><Name>DN|Stokenham|37</Name><Description>BO|DN:8477|0.067|none|-3.68985|50.26977|-3.68843|50.26952|279667,42454|279768,42424</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.68985,50.26977
 -3.68982,50.26976
 -3.68982,50.26975
 -3.6898,50.26975
@@ -7696,7 +7696,7 @@
 -3.68857,50.26957
 -3.68851,50.26955
 -3.68847,50.26954
--3.68843,50.26952</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.68843,50.26952
+-3.68843,50.26952</coordinates></LineString></Placemark><Placemark><Name>DN|Stokenham|37</Name><Description>BO|DN:8478|0.318|none|-3.68843|50.26952|-3.68230|50.26711|279768,42424|280199,42146</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>n3F_APNYEQ6J2CeLCGpQFQ</PanoramaExit><LineString><coordinates>-3.68843,50.26952
 -3.68839,50.26951
 -3.68829,50.26949
 -3.68819,50.26946
@@ -7765,7 +7765,7 @@
 -3.68241,50.26717
 -3.68236,50.26715
 -3.68233,50.26713
--3.6823,50.26711</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.6894,50.27321
+-3.6823,50.26711</coordinates></LineString></Placemark><Placemark><Name>DN|Stokenham|37</Name><Description>BO|DN:8479|0.123|none|-3.68940|50.27321|-3.68935|50.27145|279708,42836|279707,42640</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>rHTseJ08zYBHAuqciZ7AxA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.6894,50.27321
 -3.6894,50.27318
 -3.68939,50.27314
 -3.68937,50.27306
@@ -7793,7 +7793,7 @@
 -3.68932,50.27159
 -3.68933,50.27152
 -3.68934,50.27147
--3.68935,50.27145</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.68935,50.27145
+-3.68935,50.27145</coordinates></LineString></Placemark><Placemark><Name>DN|Stokenham|37</Name><Description>BO|DN:8480|0.121|none|-3.68935|50.27145|-3.68985|50.26977|279707,42640|279667,42454</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.68935,50.27145
 -3.68935,50.27142
 -3.68936,50.27137
 -3.68938,50.2713
@@ -7822,7 +7822,7 @@
 -3.68988,50.26981
 -3.68988,50.26979
 -3.68987,50.26979
--3.68985,50.26977</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.6959,50.26907
+-3.68985,50.26977</coordinates></LineString></Placemark><Placemark><Name>DN|Stokenham|38</Name><Description>BO|DN:8481|0.131|none|-3.69590|50.26907|-3.69848|50.26866|279234,42386|279049,42345</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>-6vxM5pzFZ2HNipJnaXang</PanoramaExit><LineString><coordinates>-3.6959,50.26907
 -3.69594,50.26907
 -3.69612,50.26908
 -3.69628,50.26909
@@ -7854,7 +7854,7 @@
 -3.69829,50.26866
 -3.69835,50.26867
 -3.69844,50.26866
--3.69848,50.26866</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.69848,50.26866
+-3.69848,50.26866</coordinates></LineString></Placemark><Placemark><Name>DN|Stokenham|39</Name><Description>BO|DN:8482|0.304|none|-3.69848|50.26866|-3.70050|50.26455|279049,42345|278895,41891</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>-6vxM5pzFZ2HNipJnaXang</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>SkN5PsNQC0YgZ23XaIpZLA</PanoramaExit><LineString><coordinates>-3.69848,50.26866
 -3.6985,50.26864
 -3.69854,50.2686
 -3.69856,50.26854
@@ -7908,7 +7908,7 @@
 -3.70041,50.26464
 -3.70046,50.2646
 -3.70048,50.26457
--3.7005,50.26455</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.69534,50.25952
+-3.7005,50.26455</coordinates></LineString></Placemark><Placemark><Name>DN|Stokenham|40</Name><Description>BO|DN:8483|0.632|none|-3.69534|50.25952|-3.69201|50.25215|279250,41323|279469,40498</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>R-8uQoy9zxskEHRoc8Jqbw</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>pfo-ggOSvw1CCetuwooyLQ</PanoramaExit><LineString><coordinates>-3.69534,50.25952
 -3.69532,50.2595
 -3.69527,50.25946
 -3.69525,50.25941
@@ -8040,7 +8040,7 @@
 -3.69208,50.25225
 -3.69203,50.2522
 -3.69202,50.25217
--3.69201,50.25215</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.66707,50.23864
+-3.69201,50.25215</coordinates></LineString></Placemark><Placemark><Name>DN|Stokenham|41</Name><Description>BO|DN:8484|0.191|none|-3.66707|50.23864|-3.66894|50.24080|281213,38956|281085,39199</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>eacMESq6UNcNkZFIFfVnmQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>SvvYYluiZ1xg3Y2pBgF3Eg</PanoramaExit><LineString><coordinates>-3.66707,50.23864
 -3.66705,50.23866
 -3.66701,50.23873
 -3.66701,50.2388
@@ -8074,7 +8074,7 @@
 -3.66898,50.24063
 -3.66895,50.24071
 -3.66894,50.24077
--3.66894,50.2408</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.9738,51.04866
+-3.66894,50.2408</coordinates></LineString></Placemark><Placemark><Name>DN|Swimbridge|34</Name><Description>BO|DN:8539|0.36|none|-3.97380|51.04866|-3.96560|51.04879|261741,129555|262316,129554</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>h7OBCYzmEdEwFgUPRzYHwg</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.9738,51.04866
 -3.97375,51.04866
 -3.97357,51.04867
 -3.97338,51.04868
@@ -8130,7 +8130,7 @@
 -3.96596,51.04878
 -3.9658,51.04878
 -3.96565,51.04879
--3.9656,51.04879</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.9656,51.04879
+-3.9656,51.04879</coordinates></LineString></Placemark><Placemark><Name>DN|Swimbridge|34</Name><Description>BO|DN:8540|0.34|none|-3.96560|51.04879|-3.95782|51.04869|262316,129554|262861,129528</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>yUdUFOcgBb8Wr0riQbRM8Q</PanoramaExit><LineString><coordinates>-3.9656,51.04879
 -3.96556,51.04879
 -3.96542,51.0488
 -3.96528,51.04881
@@ -8184,7 +8184,7 @@
 -3.95818,51.04871
 -3.958,51.04871
 -3.95786,51.04869
--3.95782,51.04869</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.88121,50.69139
+-3.95782,51.04869</coordinates></LineString></Placemark><Placemark><Name>DN|Throwleigh|15</Name><Description>BO|DN:8721|0.714|none|-3.88121|50.69139|-3.88804|50.70056|267219,89659|266762,90691</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>l7LLwaSlD9LojfCjTkGQaQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>W-_Cifo4JugEKoh9AvXTEA</PanoramaExit><LineString><coordinates>-3.88121,50.69139
 -3.88121,50.69141
 -3.88122,50.69151
 -3.88124,50.69162
@@ -8285,7 +8285,7 @@
 -3.88784,50.70041
 -3.88793,50.70048
 -3.88802,50.70054
--3.88804,50.70056</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.87004,50.67075
+-3.88804,50.70056</coordinates></LineString></Placemark><Placemark><Name>DN|Throwleigh|16</Name><Description>BO|DN:8722|0.289|none|-3.87004|50.67075|-3.86567|50.67331|267950,87344|268266,87621</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>Z18dIqdIHHkYL5_NuoF_9g</PanoramaExit><LineString><coordinates>-3.87004,50.67075
 -3.87002,50.67076
 -3.8699,50.67085
 -3.86977,50.67095
@@ -8328,7 +8328,7 @@
 -3.86597,50.67324
 -3.86584,50.67326
 -3.86571,50.67329
--3.86567,50.67331</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.68772,50.42024
+-3.86567,50.67331</coordinates></LineString></Placemark><Placemark><Name>DN|Totnes|20</Name><Description>BO|DN:8856|0.318|none|-3.68772|50.42024|-3.69395|50.42232|280199,59181|279761,59422</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>U_jsrGEwLEJD-U9sKw_AxQ</PanoramaExit><LineString><coordinates>-3.68772,50.42024
 -3.68776,50.42025
 -3.68786,50.42029
 -3.68796,50.42033
@@ -8372,7 +8372,7 @@
 -3.69364,50.42228
 -3.69377,50.4223
 -3.69391,50.42231
--3.69395,50.42232</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.68772,50.42024
+-3.69395,50.42232</coordinates></LineString></Placemark><Placemark><Name>DN|Totnes|20</Name><Description>BO|DN:8858|0.186|none|-3.68772|50.42024|-3.68448|50.41863|280199,59181|280425,58996</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>4-Dqkv7u-e-Chc0sT4-ldg</PanoramaExit><LineString><coordinates>-3.68772,50.42024
 -3.68769,50.42023
 -3.68754,50.42017
 -3.68739,50.42014
@@ -8400,7 +8400,7 @@
 -3.68462,50.41876
 -3.68453,50.41867
 -3.68451,50.41865
--3.68448,50.41863</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.71496,50.43268
+-3.68448,50.41863</coordinates></LineString></Placemark><Placemark><Name>DN|Totnes|22</Name><Description>BO|DN:8860|0.247|none|-3.71496|50.43268|-3.71333|50.42959|278296,60608|278403,60262</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>3bFdYEiyhcCCnwEdw-WggQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.71496,50.43268
 -3.71496,50.43265
 -3.71496,50.43257
 -3.71497,50.43249
@@ -8438,7 +8438,7 @@
 -3.71335,50.42981
 -3.71334,50.42971
 -3.71333,50.42962
--3.71333,50.42959</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.06957,50.50933
+-3.71333,50.42959</coordinates></LineString></Placemark><Placemark><Name>DN|Walkhampton|30</Name><Description>BO|DN:9184|0.03|none|-4.06957|50.50933|-4.06946|50.50904|253350,69772|253357,69739</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>qVv80iBhfvEvLX0beMnCDQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-4.06957,50.50933
 -4.06956,50.50931
 -4.06955,50.50926
 -4.06951,50.50924
@@ -8447,7 +8447,7 @@
 -4.06933,50.50917
 -4.06934,50.5091
 -4.06942,50.50905
--4.06946,50.50904</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.78759,50.25574
+-4.06946,50.50904</coordinates></LineString></Placemark><Placemark><Name>DN|West Alvington|17</Name><Description>BO|DN:9368|0.036|none|-3.78759|50.25574|-3.78708|50.25533|272665,41057|272700,41010</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>GMkKsKjySIQVCAiKxP3anQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.78759,50.25574
 -3.78755,50.25573
 -3.7875,50.25572
 -3.7874,50.25563
@@ -8455,7 +8455,7 @@
 -3.78719,50.25543
 -3.78713,50.25538
 -3.78711,50.25536
--3.78708,50.25533</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.05283,50.99485
+-3.78708,50.25533</coordinates></LineString></Placemark><Placemark><Name>DN|Yarnscombe|11</Name><Description>BO|DN:9743|0.068|none|-4.05283|50.99485|-4.05143|50.99445|256035,123723|256132,123676</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>k8rJtsoqolsQhiMR-vC8xg</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>IIpnrnuIR67_bEYY_pC6Hw</PanoramaExit><LineString><coordinates>-4.05283,50.99485
 -4.05279,50.99485
 -4.05261,50.99481
 -4.05243,50.99478
@@ -8465,7 +8465,7 @@
 -4.05177,50.99458
 -4.05162,50.99452
 -4.05147,50.99446
--4.05143,50.99445</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.01045,51.14889
+-4.05143,50.99445</coordinates></LineString></Placemark><Placemark><Name>DN|East Down|25</Name><Description>BO|DN:10015|0.725|none|-4.01045|51.14889|-4.02681|51.14937|259477,140769|258334,140854</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>22IlsG7cPVpco0MRm6g-lg</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>fM7k50KFCeOUFrqkJs1rnQ</PanoramaExit><LineString><coordinates>-4.01045,51.14889
 -4.01069,51.14897
 -4.01078,51.14901
 -4.01092,51.14909
@@ -8506,7 +8506,7 @@
 -4.02523,51.14965
 -4.02585,51.14954
 -4.02662,51.1494
--4.02681,51.14937</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-4.00048,51.15928
+-4.02681,51.14937</coordinates></LineString></Placemark><Placemark><Name>DN|East Down|24</Name><Description>BO|DN:10016|0.693|none|-4.00048|51.15928|-4.00377|51.16877|260206,141905|260004,142967</Description><StreetViewAvailable>True</StreetViewAvailable><PanoramaEntry>5aUoc3nl0ClNBDaQrggrrQ</PanoramaEntry><PanoramaMidpoint>rrSWj8It8vzwKHrKJXLnEg</PanoramaMidpoint><PanoramaExit>1W5EO1VkSjzl84xXc6lYfQ</PanoramaExit><LineString><coordinates>-4.00048,51.15928
 -4.00041,51.15979
 -4.00043,51.16062
 -4.00048,51.16131
@@ -8532,7 +8532,7 @@
 -4.00312,51.16823
 -4.00331,51.16846
 -4.00354,51.16864
--4.00377,51.16877</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.24647,50.79457
+-4.00377,51.16877</coordinates></LineString></Placemark><Placemark><Name>DN|Buckerell|21</Name><Description>BO|DN:10097|0.032|none|-3.24647|50.79457|-3.24689|50.79495|312244,100185|312215,100228</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.24647,50.79457
 -3.24654,50.79463
 -3.24659,50.79467
 -3.24663,50.79471
@@ -8542,7 +8542,7 @@
 -3.24677,50.79483
 -3.24682,50.79487
 -3.24686,50.79492
--3.24689,50.79495</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.24689,50.79495
+-3.24689,50.79495</coordinates></LineString></Placemark><Placemark><Name>DN|Buckerell|20</Name><Description>BO|DN:10098|0.127|none|-3.24689|50.79495|-3.24553|50.79652|312215,100228|312314,100401</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>rboCybfaDcvAqkTeRjQuXw</PanoramaExit><LineString><coordinates>-3.24689,50.79495
 -3.2469,50.79498
 -3.24691,50.79504
 -3.24688,50.79512

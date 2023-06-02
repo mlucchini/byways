@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kml><Document><Placemark><LineString><coordinates>-2.71179,51.29801
+<?xml version="1.0" encoding="UTF-8"?><kml><Document><Placemark><Name>ST|40UB039|CL 22/19A</Name><Description>BO|ST:7|0.71|1138|-2.71179|51.29801|-2.69655|51.29958|350469,155672|351533,155836</Description><Attribution>The data in this GeoJSON file has been obtained under licence from the council of Somerset. The Council's Definitive Map is the authoritative source of their rights of way. The details of the public rights of way network contained in the Council's data are for information only, and are an interpretation of the Definitive Map, not the Definitive Map itself, and should not be relied on for determining the position or alignment of any public right of way. For legal purposes, the Council's data does not replace their Definitive Map. And changes may have been made to the Definitive Map that are not included in their data. The authority's data contains Ordnance Survey data © Crown copyright and database right 2021. Attempting to view this data with more detail than 1:10000 may produce an inaccurate rendering of the route of a public right of way. Data is also provided by www.rowmaps.com © www.rowmaps.com copyright and database right 2021. This file is released with the Open Government Licence. The preceding attribution statements must be contained in any sub-licences of the Information that you grant, together with a requirement that any further sub-licences do the same. The date of this data is 28th September 2021.</Attribution><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>N2OV1Hb5b5JT4jSd0ufhQw</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.71179,51.29801
 -2.71175,51.29799
 -2.71157,51.29799
 -2.71136,51.298
@@ -74,7 +74,7 @@
 -2.69724,51.29965
 -2.69686,51.29961
 -2.69664,51.29959
--2.69655,51.29958</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.62432,51.20477
+-2.69655,51.29958</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/96A</Name><Description>BO|ST:879|0.169|271|-2.62432|51.20477|-2.62615|51.20267|356479,145247|356349,145015</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>PgCxO5jJSb1FcfAqGYtcyQ</PanoramaExit><LineString><coordinates>-2.62432,51.20477
 -2.6244,51.20474
 -2.62452,51.20466
 -2.62467,51.20454
@@ -95,7 +95,7 @@
 -2.62594,51.20291
 -2.62603,51.20276
 -2.62607,51.20273
--2.62615,51.20267</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.62376,51.20727
+-2.62615,51.20267</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/96A</Name><Description>BO|ST:880|0.195|316|-2.62376|51.20727|-2.62432|51.20477|356521,145525|356479,145247</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.62376,51.20727
 -2.62373,51.20722
 -2.62368,51.20713
 -2.62364,51.20707
@@ -133,7 +133,7 @@
 -2.62391,51.20508
 -2.62409,51.20496
 -2.62423,51.20484
--2.62432,51.20477</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.47492,51.04724
+-2.62432,51.20477</coordinates></LineString></Placemark><Placemark><Name>ST|40UD072|WN 16/11</Name><Description>BO|ST:3900|0.168|267|-2.47492|51.04724|-2.47780|51.04836|366803,127650|366602,127776</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.47492,51.04724
 -2.47497,51.04722
 -2.47503,51.04722
 -2.47513,51.04721
@@ -155,7 +155,7 @@
 -2.47717,51.04817
 -2.47732,51.04821
 -2.47762,51.04831
--2.4778,51.04836</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.46966,51.04698
+-2.4778,51.04836</coordinates></LineString></Placemark><Placemark><Name>ST|40UD072|WN 16/11</Name><Description>BO|ST:3901|0.282|454|-2.46966|51.04698|-2.47492|51.04724|367172,127619|366803,127650</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.46966,51.04698
 -2.46972,51.04707
 -2.46977,51.04716
 -2.46981,51.04723
@@ -183,18 +183,18 @@
 -2.47474,51.04739
 -2.47478,51.04734
 -2.47486,51.04728
--2.47492,51.04724</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.86564,50.96028
+-2.47492,51.04724</coordinates></LineString></Placemark><Placemark><Name>ST|40UD008|L 3/39</Name><Description>BO|ST:5121|0.085|137|-2.86564|50.96028|-2.86579|50.95906|339301,118229|339289,118094</Description><StreetViewAvailable>True</StreetViewAvailable><PanoramaEntry>aYUqQMMEQ_6xw9DtUvGbUw</PanoramaEntry><PanoramaMidpoint>PKMjByEZ7Y0OvFpCNJacUQ</PanoramaMidpoint><PanoramaExit>dhrhPW4Ix7t7292VTOIvbw</PanoramaExit><LineString><coordinates>-2.86564,50.96028
 -2.86567,50.96015
 -2.86568,50.95998
 -2.86569,50.95984
 -2.86573,50.95955
 -2.86577,50.95927
--2.86579,50.95906</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.51747,51.24764
+-2.86579,50.95906</coordinates></LineString></Placemark><Placemark><Name>ST|40UB010|CL 5/23A</Name><Description>BO|ST:7091|0.05|80|-2.51747|51.24764|-2.51727|51.24834|363978,149957|363992,150034</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>CpuL9Mlc-WVo-zf1BrS6TQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>xFlGune8vyTxN2gsGG315Q</PanoramaExit><LineString><coordinates>-2.51747,51.24764
 -2.51748,51.24778
 -2.51746,51.24792
 -2.51738,51.24807
 -2.5173,51.24827
--2.51727,51.24834</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.68896,51.20913
+-2.51727,51.24834</coordinates></LineString></Placemark><Placemark><Name>ST|40UB062|WS 16/42A/</Name><Description>BO|ST:7977|0.077|122|-2.68896|51.20913|-2.69025|51.20912|351968,145772|351878,145772</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>MLbQNY6mKhDuxb7eLFP5Ww</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.68896,51.20913
 -2.68912,51.20895
 -2.68943,51.20885
 -2.68961,51.2088
@@ -204,14 +204,14 @@
 -2.68988,51.20884
 -2.68995,51.20887
 -2.69006,51.20893
--2.69025,51.20912</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.60949,51.22407
+-2.69025,51.20912</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/33A</Name><Description>BO|ST:8184|0.133|214|-2.60949|51.22407|-2.60808|51.22576|357533,147385|357633,147572</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>04LCtAHn7Sp_HrDfxf1fxg</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.60949,51.22407
 -2.60933,51.22433
 -2.60913,51.22473
 -2.60905,51.22489
 -2.60898,51.22498
 -2.60849,51.22542
 -2.60823,51.22563
--2.60808,51.22576</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.60808,51.22576
+-2.60808,51.22576</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/33/1</Name><Description>BO|ST:8185|0.28|451|-2.60808|51.22576|-2.60212|51.22697|357633,147572|358050,147703</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>N7kC1bB4_Sf83H6Jfx_5nA</PanoramaExit><LineString><coordinates>-2.60808,51.22576
 -2.60793,51.22588
 -2.60778,51.22599
 -2.60763,51.22612
@@ -232,7 +232,7 @@
 -2.60284,51.2268
 -2.60257,51.22687
 -2.60231,51.22694
--2.60212,51.22697</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.64263,51.23663
+-2.60212,51.22697</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/15/1</Name><Description>BO|ST:8570|0.224|362|-2.64263|51.23663|-2.64778|51.23620|355231,148801|354871,148757</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>o6Zs_Di4k9Ff0OhRxIr2gQ</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.64263,51.23663
 -2.64428,51.23647
 -2.64548,51.23637
 -2.64572,51.23635
@@ -240,7 +240,7 @@
 -2.64638,51.2363
 -2.64734,51.23621
 -2.64773,51.2362
--2.64778,51.2362</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.66315,51.23982
+-2.64778,51.2362</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/98</Name><Description>BO|ST:8572|0.713|1143|-2.66315|51.23982|-2.64778|51.23620|353802,149169|354871,148757</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.66315,51.23982
 -2.66272,51.23972
 -2.66213,51.23958
 -2.66108,51.23934
@@ -269,17 +269,17 @@
 -2.65039,51.23681
 -2.64979,51.23666
 -2.64877,51.23643
--2.64778,51.2362</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.66329,51.23985
--2.66315,51.23982</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.66642,51.24058
+-2.64778,51.2362</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/98</Name><Description>BO|ST:8573|0.006|10|-2.66329|51.23985|-2.66315|51.23982|353792,149172|353802,149169</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.66329,51.23985
+-2.66315,51.23982</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/98</Name><Description>BO|ST:8574|0.144|232|-2.66642|51.24058|-2.66329|51.23985|353574,149255|353792,149172</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.66642,51.24058
 -2.66625,51.24054
 -2.66469,51.24017
 -2.66349,51.2399
 -2.66331,51.23986
--2.66329,51.23985</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.66717,51.24075
+-2.66329,51.23985</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/98</Name><Description>BO|ST:8575|0.035|56|-2.66717|51.24075|-2.66642|51.24058|353522,149275|353574,149255</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.66717,51.24075
 -2.66707,51.24072
 -2.66679,51.24066
 -2.66653,51.24061
--2.66642,51.24058</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.67123,51.2417
+-2.66642,51.24058</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/98</Name><Description>BO|ST:8576|0.186|302|-2.67123|51.24170|-2.66717|51.24075|353240,149383|353522,149275</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.67123,51.2417
 -2.67083,51.24161
 -2.67035,51.24149
 -2.67002,51.24141
@@ -292,13 +292,13 @@
 -2.66816,51.24099
 -2.66765,51.24087
 -2.66736,51.2408
--2.66717,51.24075</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.67448,51.24229
+-2.66717,51.24075</coordinates></LineString></Placemark><Placemark><Name>ST|40UB039|WS 8/39</Name><Description>BO|ST:8639|0.146|235|-2.67448|51.24229|-2.67123|51.24170|353013,149451|353240,149383</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.67448,51.24229
 -2.67423,51.24225
 -2.67348,51.24211
 -2.67243,51.24193
 -2.67176,51.2418
 -2.67139,51.24174
--2.67123,51.2417</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.67737,51.24188
+-2.67123,51.2417</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/105</Name><Description>BO|ST:8640|0.128|207|-2.67737|51.24188|-2.68033|51.24173|352811,149407|352604,149392</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.67737,51.24188
 -2.67759,51.24185
 -2.67775,51.24183
 -2.67795,51.24182
@@ -309,14 +309,14 @@
 -2.67968,51.24178
 -2.67996,51.24175
 -2.68025,51.24173
--2.68033,51.24173</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.68033,51.24173
+-2.68033,51.24173</coordinates></LineString></Placemark><Placemark><Name>ST|40UB039|WS 8/39</Name><Description>BO|ST:8665|0.267|428|-2.68033|51.24173|-2.68482|51.24436|352604,149392|352294,149687</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>m6AlYX8FUSgfIqOhmDLl9A</PanoramaExit><LineString><coordinates>-2.68033,51.24173
 -2.6804,51.24176
 -2.68055,51.24185
 -2.68266,51.24311
 -2.68335,51.24351
 -2.68416,51.24399
 -2.68462,51.24425
--2.68482,51.24436</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.67737,51.24188
+-2.68482,51.24436</coordinates></LineString></Placemark><Placemark><Name>ST|40UB043|WS 10/105</Name><Description>BO|ST:9508|0.129|207|-2.67737|51.24188|-2.67448|51.24229|352811,149407|353013,149451</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.67737,51.24188
 -2.67715,51.24192
 -2.67693,51.24195
 -2.67686,51.24197
@@ -330,7 +330,7 @@
 -2.67475,51.24228
 -2.67462,51.2423
 -2.67455,51.2423
--2.67448,51.24229</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-2.792,51.27747
+-2.67448,51.24229</coordinates></LineString></Placemark><Placemark><Name>ST|40UC016|AX 13/94/1</Name><Description>BO|ST:10988|0.843|1354|-2.79200|51.27747|-2.80916|51.27452|344852,153445|343652,153130</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>AobVPLzEFJuQo9yum_dPKw</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-2.792,51.27747
 -2.79207,51.27747
 -2.79214,51.27746
 -2.79217,51.27745
@@ -383,7 +383,7 @@
 -2.8068,51.27506
 -2.80722,51.2752
 -2.80746,51.2751
--2.80916,51.27452</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.26429,51.06058
+-2.80916,51.27452</coordinates></LineString></Placemark><Placemark><Name>ST|40UE024|T 16/25/1</Name><Description>BO|ST:12673|0.142|230|-3.26429|51.06058|-3.26130|51.06122|311495,129787|311706,129854</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry>saf3Ws5ILqStUp5ic7IUcA</PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.26429,51.06058
 -3.26402,51.06062
 -3.26367,51.06065
 -3.26334,51.06068
@@ -401,7 +401,7 @@
 -3.26163,51.06121
 -3.26158,51.06122
 -3.26137,51.06122
--3.2613,51.06122</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.2613,51.06122
+-3.2613,51.06122</coordinates></LineString></Placemark><Placemark><Name>ST|40UE024|T 16/43/1</Name><Description>BO|ST:12691|0.422|678|-3.26130|51.06122|-3.25432|51.06193|311706,129854|312196,129925</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit></PanoramaExit><LineString><coordinates>-3.2613,51.06122
 -3.26119,51.06115
 -3.2611,51.06109
 -3.26089,51.06087
@@ -446,7 +446,7 @@
 -3.25444,51.06181
 -3.25441,51.06186
 -3.25437,51.0619
--3.25432,51.06193</coordinates></LineString></Placemark><Placemark><LineString><coordinates>-3.03899,51.02441
+-3.25432,51.06193</coordinates></LineString></Placemark><Placemark><Name>ST|40UE016|T 10/25A</Name><Description>BO|ST:13420|0.036|57|-3.03899|51.02441|-3.03888|51.02390|327227,125518|327234,125461</Description><StreetViewAvailable>False</StreetViewAvailable><PanoramaEntry></PanoramaEntry><PanoramaMidpoint></PanoramaMidpoint><PanoramaExit>TKqFiyci7T5RhiprEnayuw</PanoramaExit><LineString><coordinates>-3.03899,51.02441
 -3.03899,51.02431
 -3.03899,51.02428
 -3.03899,51.02421

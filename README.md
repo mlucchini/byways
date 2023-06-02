@@ -4,6 +4,7 @@
 
 ```
 pip3 install -r requirements.txt
+echo "GOOGLE_MAPS_API_KEY=<YOUR_GOOGLE_MAP_API_KEY>" > .env
 ```
 
 ## Convert all GeoJSON files to KML
@@ -11,7 +12,7 @@ pip3 install -r requirements.txt
 From `geojson` directory to `kml` directory:
 
 ```
-python3 kml_to_json.py
+python3 src/geojson_to_kml.py
 ```
 
 ## Output
